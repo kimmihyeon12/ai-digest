@@ -1,9 +1,9 @@
-name: daily-digest
+﻿name: daily-digest
 
 on:
   schedule:
-    - cron: '0 23 * * *'   # 매일 08:00 KST (UTC 23:00). GitHub 사정으로 몇십 분 늦을 수 있음
-  workflow_dispatch:        # Actions 탭에서 수동 실행
+    - cron: '0 23 * * *'   # 留ㅼ씪 08:00 KST (UTC 23:00). GitHub ?ъ젙?쇰줈 紐뉗떗 遺???쓣 ???덉쓬
+  workflow_dispatch:        # Actions ??뿉???섎룞 ?ㅽ뻾
 
 permissions:
   contents: write
@@ -14,8 +14,8 @@ jobs:
   run:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: '3.12'
       - run: python digest.py --selftest
