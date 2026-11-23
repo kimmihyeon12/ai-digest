@@ -1,0 +1,23 @@
+[
+  {"cat": "도구", "name": "Claude Code", "type": "rss", "url": "https://github.com/anthropics/claude-code/releases.atom"},
+  {"cat": "도구", "name": "Codex CLI", "type": "rss", "url": "https://github.com/openai/codex/releases.atom"},
+  {"cat": "도구", "name": "Gemini CLI", "type": "rss", "url": "https://github.com/google-gemini/gemini-cli/releases.atom"},
+  {"cat": "도구", "name": "Cursor", "type": "rss", "url": "https://cursor.com/changelog/rss.xml"},
+
+  {"cat": "MCP", "name": "MCP 명세", "type": "rss", "url": "https://github.com/modelcontextprotocol/modelcontextprotocol/releases.atom"},
+  {"cat": "MCP", "name": "MCP 공식 서버", "type": "rss", "url": "https://github.com/modelcontextprotocol/servers/releases.atom"},
+  {"cat": "MCP", "name": "새 MCP 저장소", "type": "github_search", "query": "topic:mcp", "days": 7, "min_stars": 30},
+
+  {"cat": "회사 소식", "name": "OpenAI", "type": "rss", "url": "https://openai.com/news/rss.xml"},
+  {"cat": "회사 소식", "name": "Google AI", "type": "rss", "url": "https://blog.google/technology/ai/rss/"},
+  {"cat": "회사 소식", "name": "Hugging Face", "type": "rss", "url": "https://huggingface.co/blog/feed.xml"},
+
+  {"cat": "프로젝트", "name": "GitHub Trending", "type": "github_trending"},
+  {"cat": "프로젝트", "name": "Product Hunt", "type": "rss", "url": "https://www.producthunt.com/feed?category=artificial-intelligence"},
+  {"cat": "프로젝트", "name": "Show HN", "type": "hn", "tags": "show_hn", "min_points": 50},
+
+  {"cat": "커뮤니티", "name": "GeekNews", "type": "rss", "url": "https://news.hada.io/rss/news", "filter": "ai", "project_prefix": "Show GN"},
+  {"cat": "커뮤니티", "name": "Hacker News", "type": "hn", "tags": "story", "min_points": 150, "filter": "ai"},
+
+  {"cat": "직접 모은 것", "name": "디스코드 수집함", "type": "discord_inbox"}
+]

@@ -1,0 +1,35 @@
+name: daily-digest
+
+on:
+  schedule:
+    - cron: '0 23 * * *'   # 매일 08:00 KST (UTC 23:00). GitHub 사정으로 몇십 분 늦을 수 있음
+  workflow_dispatch:        # Actions 탭에서 수동 실행
+
+permissions:
+  contents: write
+
+concurrency: digest
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python digest.py --selftest
+      - run: python digest.py
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+          DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
+          DISCORD_INBOX_CHANNEL: ${{ vars.DISCORD_INBOX_CHANNEL }}
+          SITE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: commit
+        run: |
+          git config user.name "digest-bot"
+          git config user.email "digest-bot@users.noreply.github.com"
+          git add data docs
+          git diff --cached --quiet || git commit -m "digest $(date -u +%F)"
+          git push

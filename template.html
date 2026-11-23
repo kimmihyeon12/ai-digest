@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI 업데이트 모음</title>
+<style>
+  :root { --bg:#f6f7f9; --card:#fff; --ink:#1b2130; --sub:#667085; --line:#e3e7ee; --accent:#2f5fdb; --chip:#eef2fb; --new:#e5484d; }
+  @media (prefers-color-scheme: dark) { :root { --bg:#0f1218; --card:#171b23; --ink:#e7eaf0; --sub:#98a2b3; --line:#262c38; --accent:#7c9cff; --chip:#1e2533; --new:#ff6369; } }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--bg); color:var(--ink); font-family:"Pretendard","Apple SD Gothic Neo","Malgun Gothic",system-ui,sans-serif; font-size:15px; line-height:1.5; }
+  header { position:sticky; top:0; z-index:5; background:var(--bg); border-bottom:1px solid var(--line); padding:14px 16px 10px; }
+  .wrap { max-width:1100px; margin:0 auto; }
+  h1 { font-size:20px; margin:0 0 2px; }
+  .meta { color:var(--sub); font-size:12.5px; }
+  .bar { display:flex; flex-wrap:wrap; gap:6px; margin-top:10px; align-items:center; }
+  .chip { border:1px solid var(--line); background:var(--card); color:var(--ink); border-radius:999px; padding:4px 11px; font-size:13px; cursor:pointer; }
+  .chip[aria-pressed="true"] { background:var(--accent); border-color:var(--accent); color:#fff; }
+  .chip .n { opacity:.7; margin-left:3px; font-size:12px; }
+  input[type=search], select { border:1px solid var(--line); background:var(--card); color:var(--ink); border-radius:8px; padding:6px 10px; font-size:14px; }
+  input[type=search] { flex:1 1 200px; min-width:0; }
+  main { padding:14px 16px 40px; }
+  .grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(300px,1fr)); gap:12px; }
+  a.card { display:flex; flex-direction:column; background:var(--card); border:1px solid var(--line); border-radius:10px; overflow:hidden; color:inherit; text-decoration:none; }
+  a.card:hover, a.card:focus-visible { border-color:var(--accent); outline:none; }
+  .card img { width:100%; aspect-ratio:2/1; object-fit:cover; background:var(--chip); display:block; }
+  .body { padding:10px 12px 12px; display:flex; flex-direction:column; gap:4px; }
+  .top { display:flex; gap:6px; align-items:center; font-size:12px; color:var(--sub); flex-wrap:wrap; }
+  .tag { background:var(--chip); color:var(--accent); border-radius:4px; padding:0 6px; font-weight:600; }
+  .newb { color:var(--new); font-weight:700; }
+  .title { font-weight:650; font-size:15px; word-break:break-word; }
+  .sum { color:var(--sub); font-size:13px; word-break:break-word; }
+  .empty { color:var(--sub); text-align:center; padding:40px 0; }
+  .more { display:block; margin:16px auto 0; }
+  details.err { margin-top:6px; font-size:12px; color:var(--sub); }
+</style>
+</head>
+<body>
+<header><div class="wrap">
+  <h1>AI 업데이트 모음</h1>
+  <div class="meta">매일 오전 8시 갱신 · 마지막 갱신 <span id="upd"></span> · <span id="cnt"></span></div>
+  <div class="bar" id="cats" role="group" aria-label="분류"></div>
+  <div class="bar">
+    <input type="search" id="q" placeholder="제목·설명 검색" aria-label="검색">
+    <select id="src" aria-label="출처"><option value="">모든 출처</option></select>
+    <select id="period" aria-label="기간">
+      <option value="1">오늘</option><option value="7" selected>이번 주</option><option value="30">한 달</option><option value="0">전체</option>
+    </select>
+    <button class="chip" id="onlyNew" aria-pressed="false">새 글만</button>
+  </div>
+  <details class="err" id="errBox" hidden><summary>오늘 못 가져온 출처</summary><ul id="errs"></ul></details>
+</div></header>
+<main class="wrap">
+  <div class="grid" id="list"></div>
+  <p class="empty" id="empty" hidden>조건에 맞는 글이 없습니다.</p>
+  <button class="chip more" id="more" hidden>더 보기</button>
+</main>
+<script>
+const ITEMS = /*DATA*/[];
+const META = /*META*/{};
+const CATS = ['도구','MCP','회사 소식','프로젝트','커뮤니티','직접 모은 것'];
+const $ = id => document.getElementById(id);
+const store = { get(k){ try { return localStorage.getItem(k); } catch { return null; } },
+                set(k,v){ try { localStorage.setItem(k,v); } catch {} } };
+const lastSeen = store.get('lastSeen') || '';
+store.set('lastSeen', new Date().toISOString());
+const isNew = i => lastSeen && (i.added || i.date) > lastSeen.slice(0,16);
+let cat = store.get('cat') || '', shown = 60;
+
+$('upd').textContent = META.updated || '-';
+if (META.errors && META.errors.length) {
+  $('errBox').hidden = false;
+  META.errors.forEach(e => { const li = document.createElement('li'); li.textContent = e; $('errs').append(li); });
+}
+[...new Set(ITEMS.map(i => i.src))].sort().forEach(s => $('src').add(new Option(s, s)));
+
+function chip(label, value, n) {
+  const b = document.createElement('button');
+  b.className = 'chip'; b.setAttribute('aria-pressed', String(cat === value));
+  b.innerHTML = `${label}<span class="n">${n}</span>`;
+  b.onclick = () => { cat = value; store.set('cat', cat); shown = 60; render(); };
+  return b;
+}
+function filtered(ignoreCat) {
+  const q = $('q').value.trim().toLowerCase(), src = $('src').value, days = +$('period').value;
+  const since = days ? new Date(Date.now() - days*864e5 + 9*3600e3).toISOString().slice(0,16) : '';
+  return ITEMS.filter(i => (ignoreCat || !cat || i.cat === cat) && (!src || i.src === src)
+    && (!since || i.date >= since) && (!q || (i.title + ' ' + i.summary).toLowerCase().includes(q))
+    && ($('onlyNew').getAttribute('aria-pressed') !== 'true' || isNew(i)));
+}
+function render() {
+  const base = filtered(true);
+  $('cats').replaceChildren(chip('전체', '', base.length),
+    ...CATS.map(c => chip(c, c, base.filter(i => i.cat === c).length)));
+  const list = filtered(false);
+  $('cnt').textContent = `${list.length}건 표시 / 누적 ${ITEMS.length}건`;
+  $('list').replaceChildren(...list.slice(0, shown).map(i => {
+    const a = document.createElement('a');
+    a.className = 'card'; a.href = i.url; a.target = '_blank'; a.rel = 'noopener';
+    if (i.image) { const img = new Image(); img.src = i.image; img.alt = ''; img.loading = 'lazy'; img.onerror = () => img.remove(); a.append(img); }
+    const b = document.createElement('div'); b.className = 'body';
+    const top = document.createElement('div'); top.className = 'top';
+    top.innerHTML = `<span class="tag"></span><span></span><span></span>${isNew(i) ? '<span class="newb">NEW</span>' : ''}`;
+    top.children[0].textContent = i.cat; top.children[1].textContent = i.src; top.children[2].textContent = i.date.slice(5,16).replace('T',' ');
+    const t = document.createElement('div'); t.className = 'title'; t.textContent = i.title;
+    const s = document.createElement('div'); s.className = 'sum'; s.textContent = i.summary || '';
+    b.append(top, t, s); a.append(b); return a;
+  }));
+  $('empty').hidden = list.length > 0;
+  $('more').hidden = list.length <= shown;
+}
+['q','src','period'].forEach(id => $(id).addEventListener('input', () => { shown = 60; render(); }));
+$('onlyNew').onclick = e => { const b = e.currentTarget; b.setAttribute('aria-pressed', String(b.getAttribute('aria-pressed') !== 'true')); render(); };
+$('more').onclick = () => { shown += 60; render(); };
+render();
+</script>
+</body>
+</html>
