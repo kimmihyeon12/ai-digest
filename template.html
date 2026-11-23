@@ -5,31 +5,53 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>AI 업데이트 모음</title>
 <style>
-  :root { --bg:#f6f7f9; --card:#fff; --ink:#1b2130; --sub:#667085; --line:#e3e7ee; --accent:#2f5fdb; --chip:#eef2fb; --new:#e5484d; }
-  @media (prefers-color-scheme: dark) { :root { --bg:#0f1218; --card:#171b23; --ink:#e7eaf0; --sub:#98a2b3; --line:#262c38; --accent:#7c9cff; --chip:#1e2533; --new:#ff6369; } }
+  :root { --bg:#f6f7f9; --card:#fff; --ink:#1b2130; --sub:#667085; --line:#e3e7ee; --accent:#2f5fdb; --chip:#eef2fb;
+          --red:#d92d20; --red-bg:#fff1f0; }
+  @media (prefers-color-scheme: dark) { :root { --bg:#0f1218; --card:#171b23; --ink:#e7eaf0; --sub:#98a2b3; --line:#262c38;
+          --accent:#7c9cff; --chip:#1e2533; --red:#ff6b5e; --red-bg:#2a1615; } }
   * { box-sizing:border-box; }
   body { margin:0; background:var(--bg); color:var(--ink); font-family:"Pretendard","Apple SD Gothic Neo","Malgun Gothic",system-ui,sans-serif; font-size:15px; line-height:1.5; }
-  header { position:sticky; top:0; z-index:5; background:var(--bg); border-bottom:1px solid var(--line); padding:14px 16px 10px; }
+  header { position:sticky; top:0; z-index:5; background:var(--bg); border-bottom:1px solid var(--line); padding:12px 16px 10px; }
   .wrap { max-width:1100px; margin:0 auto; }
-  h1 { font-size:20px; margin:0 0 2px; }
+  .head { display:flex; justify-content:space-between; align-items:baseline; gap:10px; flex-wrap:wrap; }
+  h1 { font-size:20px; margin:0; }
   .meta { color:var(--sub); font-size:12.5px; }
+  nav { display:flex; gap:4px; margin-top:10px; border-bottom:1px solid var(--line); }
+  nav button { background:none; border:0; border-bottom:2px solid transparent; color:var(--sub); font:inherit; font-weight:600; padding:6px 12px; cursor:pointer; }
+  nav button[aria-selected="true"] { color:var(--ink); border-color:var(--accent); }
   .bar { display:flex; flex-wrap:wrap; gap:6px; margin-top:10px; align-items:center; }
-  .chip { border:1px solid var(--line); background:var(--card); color:var(--ink); border-radius:999px; padding:4px 11px; font-size:13px; cursor:pointer; }
+  .chip { border:1px solid var(--line); background:var(--card); color:var(--ink); border-radius:999px; padding:4px 11px; font-size:13px; cursor:pointer; font-family:inherit; }
   .chip[aria-pressed="true"] { background:var(--accent); border-color:var(--accent); color:#fff; }
+  .chip.red[aria-pressed="true"] { background:var(--red); border-color:var(--red); }
   .chip .n { opacity:.7; margin-left:3px; font-size:12px; }
-  input[type=search], select { border:1px solid var(--line); background:var(--card); color:var(--ink); border-radius:8px; padding:6px 10px; font-size:14px; }
+  input[type=search], select { border:1px solid var(--line); background:var(--card); color:var(--ink); border-radius:8px; padding:6px 10px; font-size:14px; font-family:inherit; }
   input[type=search] { flex:1 1 200px; min-width:0; }
   main { padding:14px 16px 40px; }
+  [hidden] { display:none !important; }
   .grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(300px,1fr)); gap:12px; }
-  a.card { display:flex; flex-direction:column; background:var(--card); border:1px solid var(--line); border-radius:10px; overflow:hidden; color:inherit; text-decoration:none; }
+  .card { display:flex; flex-direction:column; background:var(--card); border:1px solid var(--line); border-radius:10px; overflow:hidden; color:inherit; text-decoration:none; }
   a.card:hover, a.card:focus-visible { border-color:var(--accent); outline:none; }
+  .card.imp { border-color:var(--red); box-shadow:inset 3px 0 0 var(--red); }
+  .card.imp .title { color:var(--red); }
   .card img { width:100%; aspect-ratio:2/1; object-fit:cover; background:var(--chip); display:block; }
-  .body { padding:10px 12px 12px; display:flex; flex-direction:column; gap:4px; }
+  .body { padding:10px 12px 12px; display:flex; flex-direction:column; gap:4px; flex:1; }
   .top { display:flex; gap:6px; align-items:center; font-size:12px; color:var(--sub); flex-wrap:wrap; }
   .tag { background:var(--chip); color:var(--accent); border-radius:4px; padding:0 6px; font-weight:600; }
-  .newb { color:var(--new); font-weight:700; }
+  .imp-badge { background:var(--red-bg); color:var(--red); border-radius:4px; padding:0 6px; font-weight:700; }
+  .newb { color:var(--red); font-weight:700; }
   .title { font-weight:650; font-size:15px; word-break:break-word; }
-  .sum { color:var(--sub); font-size:13px; word-break:break-word; }
+  .orig { color:var(--sub); font-size:12px; word-break:break-word; }
+  .sum { font-size:13.5px; word-break:break-word; }
+  .use { margin-top:auto; padding-top:6px; display:flex; gap:6px; align-items:flex-start; font-size:13px; color:var(--sub); }
+  .use span { flex:1; }
+  .copy { flex:none; border:1px solid var(--line); background:var(--bg); color:var(--ink); border-radius:6px; font-size:12px; padding:1px 8px; cursor:pointer; font-family:inherit; }
+  .stats { font-size:12px; color:var(--sub); }
+  h2 { font-size:16px; margin:22px 0 10px; }
+  h2:first-child { margin-top:4px; }
+  .note { color:var(--sub); font-size:13px; margin:0 0 6px; }
+  .links { display:flex; flex-wrap:wrap; gap:8px; }
+  .links a { border:1px solid var(--line); background:var(--card); color:var(--ink); border-radius:8px; padding:8px 12px; text-decoration:none; font-size:14px; }
+  .links a:hover, .links a:focus-visible { border-color:var(--accent); outline:none; }
   .empty { color:var(--sub); text-align:center; padding:40px 0; }
   .more { display:block; margin:16px auto 0; }
   details.err { margin-top:6px; font-size:12px; color:var(--sub); }
@@ -37,82 +59,170 @@
 </head>
 <body>
 <header><div class="wrap">
-  <h1>AI 업데이트 모음</h1>
-  <div class="meta">매일 오전 8시 갱신 · 마지막 갱신 <span id="upd"></span> · <span id="cnt"></span></div>
-  <div class="bar" id="cats" role="group" aria-label="분류"></div>
-  <div class="bar">
-    <input type="search" id="q" placeholder="제목·설명 검색" aria-label="검색">
-    <select id="src" aria-label="출처"><option value="">모든 출처</option></select>
-    <select id="period" aria-label="기간">
-      <option value="1">오늘</option><option value="7" selected>이번 주</option><option value="30">한 달</option><option value="0">전체</option>
-    </select>
-    <button class="chip" id="onlyNew" aria-pressed="false">새 글만</button>
+  <div class="head">
+    <h1>AI 업데이트 모음</h1>
+    <div class="meta">매일 오전 8시 갱신 · 마지막 <span id="upd"></span></div>
   </div>
-  <details class="err" id="errBox" hidden><summary>오늘 못 가져온 출처</summary><ul id="errs"></ul></details>
+  <nav role="tablist">
+    <button role="tab" data-tab="news">소식</button>
+    <button role="tab" data-tab="tools">필수 도구</button>
+    <button role="tab" data-tab="links">바로가기</button>
+  </nav>
+  <div id="newsBar">
+    <div class="bar" id="cats" role="group" aria-label="분류"></div>
+    <div class="bar">
+      <input type="search" id="q" placeholder="제목·설명 검색" aria-label="검색">
+      <select id="src" aria-label="출처"><option value="">모든 출처</option></select>
+      <select id="period" aria-label="기간">
+        <option value="1">오늘</option><option value="7" selected>이번 주</option><option value="30">한 달</option><option value="0">전체</option>
+      </select>
+      <button class="chip red" id="onlyImp" aria-pressed="false">중요만</button>
+      <button class="chip" id="onlyNew" aria-pressed="false">새 글만</button>
+    </div>
+  </div>
+  <div id="toolsBar" class="bar" hidden>
+    <input type="search" id="tq" placeholder="도구 이름·기능 검색" aria-label="도구 검색">
+  </div>
+  <details class="err" id="errBox" hidden><summary>오늘 못 가져온 것</summary><ul id="errs"></ul></details>
 </div></header>
+
 <main class="wrap">
-  <div class="grid" id="list"></div>
-  <p class="empty" id="empty" hidden>조건에 맞는 글이 없습니다.</p>
-  <button class="chip more" id="more" hidden>더 보기</button>
+  <section id="news">
+    <div class="grid" id="list"></div>
+    <p class="empty" id="empty" hidden>조건에 맞는 글이 없습니다.</p>
+    <button class="chip more" id="more" hidden>더 보기</button>
+  </section>
+  <section id="tools" hidden></section>
+  <section id="links" hidden></section>
 </main>
+
 <script>
 const ITEMS = /*DATA*/[];
+const ESS = /*ESSENTIALS*/{};
 const META = /*META*/{};
-const CATS = ['도구','MCP','회사 소식','프로젝트','커뮤니티','직접 모은 것'];
-const $ = id => document.getElementById(id);
-const store = { get(k){ try { return localStorage.getItem(k); } catch { return null; } },
-                set(k,v){ try { localStorage.setItem(k,v); } catch {} } };
-const lastSeen = store.get('lastSeen') || '';
-store.set('lastSeen', new Date().toISOString());
-const isNew = i => lastSeen && (i.added || i.date) > lastSeen.slice(0,16);
-let cat = store.get('cat') || '', shown = 60;
+const CATS = ['도구', 'MCP', '스킬', '회사 소식', '프로젝트', '커뮤니티', '직접 모은 것'];
 
+const $ = id => document.getElementById(id);
+const store = { get(k) { try { return localStorage.getItem(k); } catch { return null; } },
+                set(k, v) { try { localStorage.setItem(k, v); } catch {} } };
+function el(tag, cls, text) { const e = document.createElement(tag); if (cls) e.className = cls; if (text != null) e.textContent = text; return e; }
+const num = n => n == null ? '' : n >= 1000 ? (n / 1000).toFixed(n >= 10000 ? 0 : 1) + 'k' : String(n);
+
+/* ---------- 공통 ---------- */
 $('upd').textContent = META.updated || '-';
 if (META.errors && META.errors.length) {
   $('errBox').hidden = false;
-  META.errors.forEach(e => { const li = document.createElement('li'); li.textContent = e; $('errs').append(li); });
+  META.errors.forEach(e => $('errs').append(el('li', '', e)));
 }
+function showTab(name) {
+  document.querySelectorAll('nav button').forEach(b => b.setAttribute('aria-selected', String(b.dataset.tab === name)));
+  ['news', 'tools', 'links'].forEach(t => $(t).hidden = t !== name);
+  $('newsBar').hidden = name !== 'news';
+  $('toolsBar').hidden = name !== 'tools';
+  store.set('tab', name);
+  if (location.hash !== '#' + name) history.replaceState(null, '', '#' + name);
+}
+document.querySelectorAll('nav button').forEach(b => b.onclick = () => showTab(b.dataset.tab));
+
+/* ---------- 소식 ---------- */
+const lastSeen = store.get('lastSeen') || '';
+store.set('lastSeen', new Date().toISOString());
+const isNew = i => lastSeen && (i.added || i.date) > lastSeen.slice(0, 16);
+let cat = store.get('cat') || '', shown = 60;
 [...new Set(ITEMS.map(i => i.src))].sort().forEach(s => $('src').add(new Option(s, s)));
 
 function chip(label, value, n) {
-  const b = document.createElement('button');
-  b.className = 'chip'; b.setAttribute('aria-pressed', String(cat === value));
-  b.innerHTML = `${label}<span class="n">${n}</span>`;
-  b.onclick = () => { cat = value; store.set('cat', cat); shown = 60; render(); };
+  const b = el('button', 'chip');
+  b.setAttribute('aria-pressed', String(cat === value));
+  b.append(label, el('span', 'n', n));
+  b.onclick = () => { cat = value; store.set('cat', cat); shown = 60; renderNews(); };
   return b;
 }
-function filtered(ignoreCat) {
+const pressed = id => $(id).getAttribute('aria-pressed') === 'true';
+function newsFiltered(ignoreCat) {
   const q = $('q').value.trim().toLowerCase(), src = $('src').value, days = +$('period').value;
-  const since = days ? new Date(Date.now() - days*864e5 + 9*3600e3).toISOString().slice(0,16) : '';
+  const since = days ? new Date(Date.now() - days * 864e5 + 9 * 3600e3).toISOString().slice(0, 16) : '';
   return ITEMS.filter(i => (ignoreCat || !cat || i.cat === cat) && (!src || i.src === src)
-    && (!since || i.date >= since) && (!q || (i.title + ' ' + i.summary).toLowerCase().includes(q))
-    && ($('onlyNew').getAttribute('aria-pressed') !== 'true' || isNew(i)));
+    && (!since || i.date >= since)
+    && (!q || [i.ko_title, i.ko_summary, i.title, i.summary].join(' ').toLowerCase().includes(q))
+    && (!pressed('onlyImp') || i.important) && (!pressed('onlyNew') || isNew(i)));
 }
-function render() {
-  const base = filtered(true);
-  $('cats').replaceChildren(chip('전체', '', base.length),
-    ...CATS.map(c => chip(c, c, base.filter(i => i.cat === c).length)));
-  const list = filtered(false);
-  $('cnt').textContent = `${list.length}건 표시 / 누적 ${ITEMS.length}건`;
-  $('list').replaceChildren(...list.slice(0, shown).map(i => {
-    const a = document.createElement('a');
-    a.className = 'card'; a.href = i.url; a.target = '_blank'; a.rel = 'noopener';
-    if (i.image) { const img = new Image(); img.src = i.image; img.alt = ''; img.loading = 'lazy'; img.onerror = () => img.remove(); a.append(img); }
-    const b = document.createElement('div'); b.className = 'body';
-    const top = document.createElement('div'); top.className = 'top';
-    top.innerHTML = `<span class="tag"></span><span></span><span></span>${isNew(i) ? '<span class="newb">NEW</span>' : ''}`;
-    top.children[0].textContent = i.cat; top.children[1].textContent = i.src; top.children[2].textContent = i.date.slice(5,16).replace('T',' ');
-    const t = document.createElement('div'); t.className = 'title'; t.textContent = i.title;
-    const s = document.createElement('div'); s.className = 'sum'; s.textContent = i.summary || '';
-    b.append(top, t, s); a.append(b); return a;
-  }));
+function newsCard(i) {
+  const a = el('a', 'card' + (i.important ? ' imp' : ''));
+  a.href = i.url; a.target = '_blank'; a.rel = 'noopener';
+  if (i.image) { const img = new Image(); img.src = i.image; img.alt = ''; img.loading = 'lazy'; img.onerror = () => img.remove(); a.append(img); }
+  const b = el('div', 'body'), top = el('div', 'top');
+  top.append(el('span', 'tag', i.cat), el('span', '', i.src), el('span', '', i.date.slice(5, 16).replace('T', ' ')));
+  if (i.important) top.append(el('span', 'imp-badge', '중요'));
+  if (isNew(i)) top.append(el('span', 'newb', 'NEW'));
+  b.append(top, el('div', 'title', i.ko_title || i.title));
+  if (i.ko_title && i.ko_title !== i.title) b.append(el('div', 'orig', i.title));
+  const sum = i.ko_summary || i.summary;
+  if (sum) b.append(el('div', 'sum', sum));
+  a.append(b);
+  return a;
+}
+function renderNews() {
+  const base = newsFiltered(true);
+  $('cats').replaceChildren(chip('전체', '', base.length), ...CATS.map(c => chip(c, c, base.filter(i => i.cat === c).length)));
+  const list = newsFiltered(false).sort((x, y) => (y.important - x.important) || (y.date > x.date ? 1 : -1));
+  $('list').replaceChildren(...list.slice(0, shown).map(newsCard));
   $('empty').hidden = list.length > 0;
   $('more').hidden = list.length <= shown;
 }
-['q','src','period'].forEach(id => $(id).addEventListener('input', () => { shown = 60; render(); }));
-$('onlyNew').onclick = e => { const b = e.currentTarget; b.setAttribute('aria-pressed', String(b.getAttribute('aria-pressed') !== 'true')); render(); };
-$('more').onclick = () => { shown += 60; render(); };
-render();
+['q', 'src', 'period'].forEach(id => $(id).addEventListener('input', () => { shown = 60; renderNews(); }));
+['onlyImp', 'onlyNew'].forEach(id => $(id).onclick = () => { $(id).setAttribute('aria-pressed', String(!pressed(id))); renderNews(); });
+$('more').onclick = () => { shown += 60; renderNews(); };
+
+/* ---------- 필수 도구 ---------- */
+function toolCard(t) {
+  const a = el('a', 'card'); a.href = t.url; a.target = '_blank'; a.rel = 'noopener';
+  const b = el('div', 'body'), top = el('div', 'top');
+  top.append(el('span', 'tag', t.kind || ''));
+  const stats = [t.stars != null && '★' + num(t.stars), t.forks != null && '포크 ' + num(t.forks), t.pushed && '업데이트 ' + t.pushed.slice(2)].filter(Boolean);
+  if (stats.length) top.append(el('span', 'stats', stats.join(' · ')));
+  b.append(top, el('div', 'title', t.name));
+  if (t.repo && t.repo !== t.name) b.append(el('div', 'orig', t.repo));
+  b.append(el('div', 'sum', t.what || t.desc || ''));
+  if (t.use) {
+    const u = el('div', 'use'), btn = el('button', 'copy', '복사');
+    u.append(el('span', '', '이렇게 시켜 보세요: ' + t.use), btn);
+    btn.onclick = e => { e.preventDefault(); navigator.clipboard?.writeText(t.use.replace(/^"|"$/g, '')).then(() => { btn.textContent = '복사됨'; setTimeout(() => btn.textContent = '복사', 1200); }); };
+    b.append(u);
+  }
+  a.append(b);
+  return a;
+}
+function renderTools() {
+  const q = $('tq').value.trim().toLowerCase();
+  const all = [...(ESS.picks || []), ...(ESS.auto || [])]
+    .filter(t => !q || [t.name, t.repo, t.what, t.desc, t.use, t.group].join(' ').toLowerCase().includes(q));
+  const groups = [...new Set(all.map(t => t.group))];
+  const out = [];
+  if (!q) out.push(el('p', 'note', '분야별로 직접 고른 도구와, 포크가 많은 인기 스킬·MCP(매일 자동 수집)입니다. 별·포크·업데이트일은 매일 갱신됩니다.'));
+  groups.forEach(g => {
+    const grid = el('div', 'grid');
+    grid.append(...all.filter(t => t.group === g).map(toolCard));
+    out.push(el('h2', '', g), grid);
+  });
+  if (!all.length) out.push(el('p', 'empty', '검색 결과가 없습니다.'));
+  $('tools').replaceChildren(...out);
+}
+$('tq').addEventListener('input', renderTools);
+
+/* ---------- 바로가기 ---------- */
+function renderLinks() {
+  const links = ESS.links || [], out = [];
+  [...new Set(links.map(l => l.group))].forEach(g => {
+    const box = el('div', 'links');
+    links.filter(l => l.group === g).forEach(l => { const a = el('a', '', l.name); a.href = l.url; a.target = '_blank'; a.rel = 'noopener'; box.append(a); });
+    out.push(el('h2', '', g), box);
+  });
+  $('links').replaceChildren(...out);
+}
+
+renderNews(); renderTools(); renderLinks();
+showTab(['news', 'tools', 'links'].includes(location.hash.slice(1)) ? location.hash.slice(1) : (store.get('tab') || 'news'));
 </script>
 </body>
 </html>
