@@ -66,6 +66,7 @@
   <nav role="tablist">
     <button role="tab" data-tab="news">소식</button>
     <button role="tab" data-tab="tools">필수 도구</button>
+    <button role="tab" data-tab="popular">인기 스킬</button>
     <button role="tab" data-tab="links">바로가기</button>
   </nav>
   <div id="newsBar">
@@ -93,6 +94,7 @@
     <button class="chip more" id="more" hidden>더 보기</button>
   </section>
   <section id="tools" hidden></section>
+  <section id="popular" hidden></section>
   <section id="links" hidden></section>
 </main>
 
@@ -100,6 +102,7 @@
 const ITEMS = /*DATA*/[];
 const ESS = /*ESSENTIALS*/{};
 const META = /*META*/{};
+const TABS = ['news', 'tools', 'popular', 'links'];
 const CATS = ['뉴스', '도구', 'MCP', '스킬', '회사 소식', '프로젝트', '커뮤니티', '직접 모은 것'];
 
 const $ = id => document.getElementById(id);
@@ -116,9 +119,9 @@ if (META.errors && META.errors.length) {
 }
 function showTab(name) {
   document.querySelectorAll('nav button').forEach(b => b.setAttribute('aria-selected', String(b.dataset.tab === name)));
-  ['news', 'tools', 'links'].forEach(t => $(t).hidden = t !== name);
+  TABS.forEach(t => $(t).hidden = t !== name);
   $('newsBar').hidden = name !== 'news';
-  $('toolsBar').hidden = name !== 'tools';
+  $('toolsBar').hidden = !['tools', 'popular'].includes(name);
   store.set('tab', name);
   if (location.hash !== '#' + name) history.replaceState(null, '', '#' + name);
 }
@@ -193,20 +196,24 @@ function toolCard(t) {
   a.append(b);
   return a;
 }
-function renderTools() {
+function renderToolGroups(target, list, note, sortByForks) {
   const q = $('tq').value.trim().toLowerCase();
-  const all = [...(ESS.picks || []), ...(ESS.auto || [])]
-    .filter(t => !q || [t.name, t.repo, t.what, t.desc, t.use, t.group].join(' ').toLowerCase().includes(q));
-  const groups = [...new Set(all.map(t => t.group))];
+  const all = list.filter(t => !q || [t.name, t.repo, t.what, t.desc, t.use, t.group].join(' ').toLowerCase().includes(q));
   const out = [];
-  if (!q) out.push(el('p', 'note', '분야별로 직접 고른 도구와, 포크가 많은 인기 스킬·MCP(매일 자동 수집)입니다. 별·포크·업데이트일은 매일 갱신됩니다.'));
-  groups.forEach(g => {
+  if (!q) out.push(el('p', 'note', note));
+  [...new Set(all.map(t => t.group))].forEach(g => {
+    let rows = all.filter(t => t.group === g);
+    if (sortByForks) rows = rows.sort((a, b) => (b.forks || 0) - (a.forks || 0));
     const grid = el('div', 'grid');
-    grid.append(...all.filter(t => t.group === g).map(toolCard));
+    grid.append(...rows.map(toolCard));
     out.push(el('h2', '', g), grid);
   });
   if (!all.length) out.push(el('p', 'empty', '검색 결과가 없습니다.'));
-  $('tools').replaceChildren(...out);
+  $(target).replaceChildren(...out);
+}
+function renderTools() {
+  renderToolGroups('tools', ESS.picks || [], '분야별로 직접 고른 필수 도구입니다. 별·포크·업데이트일은 매일 갱신됩니다.', false);
+  renderToolGroups('popular', ESS.auto || [], '포크(가져다 쓴 수)가 많은 스킬·MCP를 매일 자동으로 모읍니다. 포크 많은 순서입니다.', true);
 }
 $('tq').addEventListener('input', renderTools);
 
@@ -222,7 +229,7 @@ function renderLinks() {
 }
 
 renderNews(); renderTools(); renderLinks();
-showTab(['news', 'tools', 'links'].includes(location.hash.slice(1)) ? location.hash.slice(1) : (store.get('tab') || 'news'));
+showTab(TABS.includes(location.hash.slice(1)) ? location.hash.slice(1) : (store.get('tab') || 'news'));
 </script>
 </body>
 </html>
