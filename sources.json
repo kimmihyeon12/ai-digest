@@ -15,6 +15,15 @@
   {"cat": "회사 소식", "name": "Google AI", "type": "rss", "url": "https://blog.google/technology/ai/rss/", "important_title": "Gemini \\d|Introducing|Launch|available now"},
   {"cat": "회사 소식", "name": "Hugging Face", "type": "rss", "url": "https://huggingface.co/blog/feed.xml"},
 
+  {"cat": "뉴스", "name": "AI타임스", "type": "rss", "url": "https://www.aitimes.com/rss/allArticle.xml"},
+  {"cat": "뉴스", "name": "인공지능신문", "type": "rss", "url": "https://www.aitimes.kr/rss/allArticle.xml"},
+  {"cat": "뉴스", "name": "IT조선", "type": "rss", "url": "https://it.chosun.com/rss/allArticle.xml", "filter": "ai"},
+  {"cat": "뉴스", "name": "TechCrunch", "type": "rss", "url": "https://techcrunch.com/category/artificial-intelligence/feed/"},
+  {"cat": "뉴스", "name": "The Verge", "type": "rss", "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"},
+  {"cat": "뉴스", "name": "MIT Tech Review", "type": "rss", "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed"},
+  {"cat": "뉴스", "name": "Wired", "type": "rss", "url": "https://www.wired.com/feed/tag/ai/latest/rss"},
+  {"cat": "뉴스", "name": "Ars Technica", "type": "rss", "url": "https://feeds.arstechnica.com/arstechnica/technology-lab", "filter": "ai"},
+
   {"cat": "프로젝트", "name": "GitHub Trending", "type": "github_trending", "important_score": 1000, "exclude": "spam"},
   {"cat": "프로젝트", "name": "Product Hunt", "type": "rss", "url": "https://www.producthunt.com/feed?category=artificial-intelligence"},
   {"cat": "프로젝트", "name": "Show HN", "type": "hn", "tags": "show_hn", "min_points": 50, "important_score": 300},
