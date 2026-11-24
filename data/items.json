@@ -1,5 +1,1396 @@
 [
 {
+"id": "https://www.aitimes.com/news/articleView.html?idxno=217734",
+"cat": "뉴스",
+"src": "AI타임스",
+"title": "황 CEO 복귀에 앤트로픽 주가 역주행…오픈웨이트 경쟁 부담",
+"url": "https://www.aitimes.com/news/articleView.html?idxno=217734",
+"date": "2026-11-25T00:34+09:00",
+"summary": "젠슨 황 엔비디아 CEO의 복귀 소식에 주요 AI 관련 종목이 동반 상승했지만, 앤트로픽은 오히려 주가가 하락했다. 황 CEO가 주도해 온 오픈웨이트 AI 모델 생태계가 폐쇄형 모델을 중심으로 성장한 앤트로픽의 사업에 부담이 될 수 있다는 분석이 나온다.블룸버그에 따르면, 23일(현지시간) 앤트로픽 주가는 전 거래일 대비…",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://www.aitimes.com/news/articleView.html?idxno=217715",
+"cat": "뉴스",
+"src": "AI타임스",
+"title": "전남광주 AI·디지털 교육에 948억원 편성…568억원은 학생용 기기 지원",
+"url": "https://www.aitimes.com/news/articleView.html?idxno=217715",
+"date": "2026-11-25T00:28+09:00",
+"summary": "전남광주통합특별시교육청이 내년 인공지능(AI)·디지털 교육에 948억원을 편성한 가운데, 학생용 디지털기기 보급비가 568억원으로 전체의 59.9%를 차지하는 것으로 나타났다. 학생들이 실제로 배우는 AI 교육과 별도로 노트북 등 학습기기 보급에 상당한 예산이 배정된 것으로, 기존 광주지역에서는 기기 수리 과정에서 학부모…",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://www.aitimes.com/news/articleView.html?idxno=217723",
+"cat": "뉴스",
+"src": "AI타임스",
+"title": "정부, 중소 제조기업 AI 도입 지원 확대…데이터 수집에도 최대 5000만원",
+"url": "https://www.aitimes.com/news/articleView.html?idxno=217723",
+"date": "2026-11-25T00:27+09:00",
+"summary": "정부가 내년 중소 제조기업의 AI 도입 지원을 확대하면서 제조데이터 수집·검증 단계에도 최대 5000만원을 지원한다. 제조AI 특화 지원 과제는 올해 계획 400개에서 내년 500개로 늘어난다.중소벤처기업부는 23일 2027년도 스마트공장 구축지원사업 참여기업 모집을 공고하고 12월 7일부터 내년 1월 6일까지 신청을 받…",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://www.aitimes.com/news/articleView.html?idxno=217736",
+"cat": "뉴스",
+"src": "AI타임스",
+"title": "전남 의과 공보의 3년 새 반토막…AI 진단·전문의 원격협진 추진",
+"url": "https://www.aitimes.com/news/articleView.html?idxno=217736",
+"date": "2026-11-25T00:27+09:00",
+"summary": "전남광주통합특별시가 서남권 의료기관에 AI 기반 진단 체계를 도입하고 상급종합병원 전문의와 연결하는 원격협진망 구축에 나선다. 전남권 의과 공중보건의가 3년 새 52.1% 감소한 가운데 섬과 농어촌의 의료공백을 줄이겠다는 구상이다.통합시는 23일 서남권 공공의료 혁신 대책을 발표했다. 국립의대 후보대학 선정 이후 제기된 …",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://it.chosun.com/news/articleView.html?idxno=3000000001722",
+"cat": "뉴스",
+"src": "IT조선",
+"title": "‘12월 상장’ 엔키화이트햇 “구독형 AI 모의해킹으로 글로벌 공략”",
+"url": "https://it.chosun.com/news/articleView.html?idxno=3000000001722",
+"date": "2026-11-25T00:24+09:00",
+"summary": "“인공지능(AI)이 취약점을 찾고 공격하는 속도가 사람이 패치하고 방어하는 속도를 앞지르고 있습니다. 사람이 일일이 대응하는 방식으로는 한계가 있어 자동으로 검증하고 대응하는 보안 AI가 반드시 필요합니다.”이성권 엔키화이트햇 대표는 24일 서울 여의도에서 열린 기업공개(IPO) 기자간담회에서 이같이 말했다. 12월 11…",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://www.aitimes.com/news/articleView.html?idxno=217742",
+"cat": "뉴스",
+"src": "AI타임스",
+"title": "[AI 모델 신작] 호요버스의 게임 AI·엔비디아의 확산언어모델 등 7종",
+"url": "https://www.aitimes.com/news/articleView.html?idxno=217742",
+"date": "2026-11-25T00:14+09:00",
+"summary": "■ '원신' 개발사 호요버스, 사람처럼 게임하는 범용 AI '게이머' 개발'원신' 개발사 호요버스 연구진이 사람처럼 화면을 보면서 키보드와 마우스를 조작해 게임을 진행하는 시각언어행동(VLA) 모델 '게이머(Gamer)'를 개발했다. 게임마다 별도의 조작 프로그램을 구축하지 않고 화면 정보와 자연어 지시를 바탕으로 행동하…",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://it.chosun.com/news/articleView.html?idxno=3000000001719",
+"cat": "뉴스",
+"src": "IT조선",
+"title": "쇼호스트 대신 AI 모델 앞세운다…'AI 방송국'으로 생존 찾는 홈쇼핑",
+"url": "https://it.chosun.com/news/articleView.html?idxno=3000000001719",
+"date": "2026-11-25T00:10+09:00",
+"summary": "홈쇼핑업계가 쇼호스트·스튜디오·촬영 장비 없이 방송을 만드는 'AI 방송국'으로 빠르게 전환하고 있다. 가상 인간을 앞세운 이벤트성 방송이나 단순 업무 보조에 머물던 인공지능(AI)이 이제 방송 제작과 판매 전반을 맡는 핵심 인프라로 올라선 것이다. 방송매출의 70%를 웃도는 송출수수료 부담 속에 비용을 줄이지 않고는 버…",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://www.aitimes.kr/news/articleView.html?idxno=42869",
+"cat": "뉴스",
+"src": "인공지능신문",
+"title": "AI 로봇이 교정시설 자율 순찰…미국 AITX, 보안 인력 지원·운영비 절감 실증 착수",
+"url": "https://www.aitimes.kr/news/articleView.html?idxno=42869",
+"date": "2026-11-24T23:44+09:00",
+"summary": "피지컬 AI(Physical AI) 기반 자율주행 로봇의 활용 범위가 제조·물류 현장을 넘어 교정시설의 보안 순찰 업무로 확대되고 있다.미국 인공지능(AI) 기반 보안 솔루션 기업 아티피셜 인텔리전스 테크놀로지 솔루션스(Artificial Intelligence Technology Solutions, AITX)는 자회사 …",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://www.aitimes.com/news/articleView.html?idxno=217739",
+"cat": "뉴스",
+"src": "AI타임스",
+"title": "AI 탐지기 'GPT제로 5' 출시…\"사람 글 오판 5만건당 1건\"",
+"url": "https://www.aitimes.com/news/articleView.html?idxno=217739",
+"date": "2026-11-24T23:42+09:00",
+"summary": "챗GPT 등장 직후 AI 생성 글 탐지 열풍을 일으켰던 'GPT제로(GPTZero)'가 차세대 탐지 모델을 출시하며 기술 주도권 회복에 나섰다. 최근 AI 탐지 분야에서 높은 평가를 받는 '팽그램(Pangram)'의 성능을 넘어섰다고 주장하는 것은 물론, 사람이 쓴 글을 AI 생성물로 잘못 판정한 사례를 찾아내면 상금까지…",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://www.aitimes.kr/news/articleView.html?idxno=42868",
+"cat": "뉴스",
+"src": "인공지능신문",
+"title": "AI 에이전트가 양자 알고리즘 최적화한다…구글 딥마인드, 핵융합 연산 비용 11.8분의 1로 줄여",
+"url": "https://www.aitimes.kr/news/articleView.html?idxno=42868",
+"date": "2026-11-24T23:07+09:00",
+"summary": "인공지능(AI)이 양자컴퓨팅(Quantum Computing)을 활용하는 수준을 넘어 양자 알고리즘 자체를 발견하고 최적화하는 과학 연구의 새로운 도구로 진화하고 있다.구글 딥마인드(Google DeepMind)와 구글 퀀텀 AI(Google Quantum AI) 공동 연구진은 다수의 AI 에이전트가 독립적으로 연구를 수…",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://www.aitimes.com/news/articleView.html?idxno=217726",
+"cat": "뉴스",
+"src": "AI타임스",
+"title": "2027 상용화 원년 AI 안경, '눈앞의 비서'로 쓰임새 넓힌다",
+"url": "https://www.aitimes.com/news/articleView.html?idxno=217726",
+"date": "2026-11-24T23:04+09:00",
+"summary": "AI 안경이 실시간 통역과 길 안내를 넘어 박물관 해설, 장애인 의사소통 지원, 숙련 기술 전수, 결제·쇼핑 등 생활 밀착형 서비스로 활용 영역 확장을 꾀하고 있다. 몰래 촬영이나 시험 부정행위 같은 악용 우려도 커지고 있지만, 글로벌 빅테크가 잇따라 제품을 내놓으면서 AI 안경을 활용하는 응용 서비스 경쟁도 가속화할 전…",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://www.aitimes.com/news/articleView.html?idxno=217733",
+"cat": "뉴스",
+"src": "AI타임스",
+"title": "벤처비트 \"페이블 5.2, 오퍼스 5.5와 버그 수정 성능 비슷…비용은 3배\"",
+"url": "https://www.aitimes.com/news/articleView.html?idxno=217733",
+"date": "2026-11-24T22:57+09:00",
+"summary": "앤트로픽의 최상위 모델 '클로드 페이블 5.2'가 실제 코드 오류 수정 테스트에서 '오퍼스 5.5'와 비슷한 성능을 기록했지만, 비용은 3배에 달했다. 벤처비트가 자체 진행한 실험 결과로, 기업이 AI 모델을 선택할 때 토큰 가격이나 벤치마크 순위뿐 아니라 실제 작업을 성공적으로 마치는 데 드는 비용을 고려해야 한다는 점…",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://www.aitimes.com/news/articleView.html?idxno=217652",
+"cat": "뉴스",
+"src": "AI타임스",
+"title": "“100년의 역사를 걷다”… 광주 동명동 나무전거리, 석재 디자인으로 보행공간 재탄생",
+"url": "https://www.aitimes.com/news/articleView.html?idxno=217652",
+"date": "2026-11-24T22:30+09:00",
+"summary": "광주시 동구 동명동 일대에 지역의 역사와 문화적 정체성을 담은 특색 있는 보행공간이 조성됐다. 이번 사업은 도시재생 뉴딜 보행환경 정비사업의 일환으로, 지역 고유의 이야기를 공공디자인에 접목해 보행환경을 개선하고 거리의 상징성을 높이는 데 의미를 두고 있다.이번 프로젝트의 중심은 동명동의 역사적 공간인 '나무전거리'를 표…",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://it.chosun.com/news/articleView.html?idxno=3000000001711",
+"cat": "뉴스",
+"src": "IT조선",
+"title": "“AI·반도체 웃고 세트 울었다”",
+"url": "https://it.chosun.com/news/articleView.html?idxno=3000000001711",
+"date": "2026-11-24T21:50+09:00",
+"summary": "인공지능(AI) 생태계 성과와 사업부별 실적이 삼성 전자계열 5개사 임원인사의 향방을 갈랐다. 세트(완제품) 부진 여파로 전체 승진자는 감소했지만, 반도체(DS) 부문과 삼성전기·삼성SDI는 오히려 승진의 문을 넓혔다. 전체 부사장 수가 줄어드는 와중에도 비(非)전자 3사의 부사장 승진자는 두 배 가까이 증가했다.삼성전자…",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://www.aitimes.com/news/articleView.html?idxno=217725",
+"cat": "뉴스",
+"src": "AI타임스",
+"title": "오픈AI, 챗GPT에 'GPT-6.2 솔' 탑재…지시 수행·이미지 이해 강화",
+"url": "https://www.aitimes.com/news/articleView.html?idxno=217725",
+"date": "2026-11-24T21:13+09:00",
+"summary": "오픈AI가 챗GPT에 일상적인 대화에 최적화한 'GPT-6.2 솔(Sol)'을 탑재했다. 이달 중순 '워크'와 '코덱스'에 먼저 도입한 모델을 일반 채팅에 맞게 조정한 것으로, 복잡한 지시 수행과 인터넷 검색, 이미지 이해 및 사용자 의도 파악 능력을 강화했다.오픈AI는 23일(현지시간) 공식 홈페이지를 통해 챗GPT의 …",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://www.aitimes.com/news/articleView.html?idxno=217721",
+"cat": "뉴스",
+"src": "AI타임스",
+"title": "젠슨 황 복귀에 미 의회 초당적 반발…AI 칩 수출 규제 강화 요구",
+"url": "https://www.aitimes.com/news/articleView.html?idxno=217721",
+"date": "2026-11-24T21:06+09:00",
+"summary": "젠슨 황 엔비디아 CEO의 복귀를 두고 미국 의회에서 공화당과 민주당 의원들의 초당적 반발이 이어지고 있다. 의원들은 중국의 첨단 AI 칩 접근을 차단하기 위한 수출 규제 강화를 요구하는 한편, 도널드 트럼프 대통령의 복귀 개입 경위와 엔비디아의 수출 통제 준수 여부도 조사해야 한다고 주장했다.로이터는 23일(현지시간) …",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://www.aitimes.com/news/articleView.html?idxno=217718",
+"cat": "뉴스",
+"src": "AI타임스",
+"title": "NYT \"앨리스 황, 중국 정보기관과 1년 넘게 접촉\"…정부 조사는 계속",
+"url": "https://www.aitimes.com/news/articleView.html?idxno=217718",
+"date": "2026-11-24T21:01+09:00",
+"summary": "젠슨 황 엔비디아 CEO가 사임 2주 만에 경영 일선에 복귀했지만, 중국으로의 첨단 반도체 유출 및 투자자 기만 의혹을 둘러싼 조사는 계속되고 있다. 특히 황 CEO와 불륜 관계였던 앨리스 황이 중국 국가안전부 요원과 1년 넘게 접촉했다는 새로운 보도가 나왔다.뉴욕타임스(NYT)는 22일(현지시간) 정보기관 보고서를 확인…",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://www.aitimes.com/news/articleView.html?idxno=217722",
+"cat": "뉴스",
+"src": "AI타임스",
+"title": "미국, 메가스피드 블랙리스트 등재…황 CEO 복귀 당일 AI 칩 공급 차단",
+"url": "https://www.aitimes.com/news/articleView.html?idxno=217722",
+"date": "2026-11-24T20:56+09:00",
+"summary": "미국 정부가 엔비디아의 주요 고객사였던 싱가포르 반도체 유통·데이터센터 기업 메가스피드를 수출 통제 블랙리스트에 올렸다. 엔비디아의 첨단 AI 칩을 중국으로 밀수출했다는 의혹이 제기된 지 약 1년 만으로, 젠슨 황 엔비디아 CEO의 복귀가 결정된 당일 제재를 발표했다.미 상무부 산업안보국(BIS)은 23일(현지시간) 연방…",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://www.aitimes.com/news/articleView.html?idxno=217727",
+"cat": "뉴스",
+"src": "AI타임스",
+"title": "광양경자청, 중국 유망기업 17개사 초청 미래 산업 투자유치 본격화",
+"url": "https://www.aitimes.com/news/articleView.html?idxno=217727",
+"date": "2026-11-24T20:54+09:00",
+"summary": "광양만권경제자유구역청(청장 구충곤)은 지난 22일부터 24일까지 3일간 중국 베이징, 상하이, 항저우, 선전 지역 유망기업 및 투자기관 17개사를 초청해 광양만권의 산업·물류 인프라와 투자 환경을 소개하는 현장 시찰을 진행했다고 밝혔다.이번 행사에는 반도체, 모빌리티, AI, 로봇, 에너지, 첨단소재 등 한국 진출에 관심…",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://www.aitimes.com/news/articleView.html?idxno=217702",
+"cat": "뉴스",
+"src": "AI타임스",
+"title": "구글, 초고온 지열 50MW 구매계약…사업자는 200MW 추가 개발 추진",
+"url": "https://www.aitimes.com/news/articleView.html?idxno=217702",
+"date": "2026-11-24T20:50+09:00",
+"summary": "구글이 미국 오리건주에서 추진되는 초고온 지열발전소의 전력 50메가와트(MW)를 구매하는 계약을 체결했다. 앞서 396MW 규모의 지열 전력구매계약을 맺은 데 이어 아직 상용화되지 않은 초고온 지열발전까지 데이터센터 전력 확보 수단으로 활용하려는 움직임이다.미국 지열에너지 개발기업 퀘이즈 에너지(Quaise Energy)…",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://www.aitimes.com/news/articleView.html?idxno=217679",
+"cat": "뉴스",
+"src": "AI타임스",
+"title": "멕시코 태양광, 2035년 43.8GW 전망…기존 예상치 6GW 상향",
+"url": "https://www.aitimes.com/news/articleView.html?idxno=217679",
+"date": "2026-11-24T20:50+09:00",
+"summary": "멕시코의 태양광 설비용량이 2025년 13.7기가와트(GW)에서 2035년 43.8GW로 약 3.2배 증가할 것이라는 전망이 나왔다. 기존 전망치를 6GW 상향 조정한 것으로, 송전망 혼잡과 전력 공급 인프라의 제약이 향후 보급 속도를 좌우할 것으로 분석됐다.시장조사업체 글로벌데이터(GlobalData)가 지난 19일(현…",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://www.aitimes.com/news/articleView.html?idxno=217717",
+"cat": "뉴스",
+"src": "AI타임스",
+"title": "삼성전자, 2027 임원인사…반도체 인재 중용 ‘성과주의’ 재확인",
+"url": "https://www.aitimes.com/news/articleView.html?idxno=217717",
+"date": "2026-11-24T20:26+09:00",
+"summary": "삼성전자가 2027년 정기 임원인사에서 지난해보다 20% 가까이 승진 규모를 줄였다. 하지만 역대 최대 실적의 반도체 부문은 승진자의 절반 이상을 차지했다.삼성전자는 24일 부사장 39명, 상무 78명, 펠로우 2명, 마스터 12명 등 총 131명을 승진 발령했다고 밝혔다. 이는 지난해(161명)보다 30명 줄어 든 규모…",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://www.aitimes.com/news/articleView.html?idxno=217719",
+"cat": "뉴스",
+"src": "AI타임스",
+"title": "LGU+, 데이터독과 통화 에이전트 '익시오' 안정성 높인다",
+"url": "https://www.aitimes.com/news/articleView.html?idxno=217719",
+"date": "2026-11-24T20:23+09:00",
+"summary": "LG유플러스(대표 홍범식)는 글로벌 옵저빌리티 기업 데이터독과 협력해 AI 통화 에이전트 '익시오(ixi-O)'의 고객 불편·장애 대응 체계를 강화한다고 24일 밝혔다.데이터독은 기업 IT 시스템을 통합 모니터링·분석하는 옵저빌리티·보안 플랫폼 기업이다. 데이터독의 '비츠 AI(Bits AI)'는 서비스 운영 과정에서 발…",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://www.aitimes.com/news/articleView.html?idxno=217716",
+"cat": "뉴스",
+"src": "AI타임스",
+"title": "한컴, 공공기관 HWP 문서 → HWPX 변환 지원",
+"url": "https://www.aitimes.com/news/articleView.html?idxno=217716",
+"date": "2026-11-24T20:22+09:00",
+"summary": "한컴(대표 김연수)은 공공기관의 기존 HWP 문서를 HWPX로 변환하는 전용 변환기를 공급한다고 24일 밝혔다.공공 문서의 개방형 형식 전환 정책에 따른 조치로 이재명 대통령은 지난 3일 국무회의에서 HWPX를 기본 형식으로 하고, 기존 HWP 문서 변환 문제도 해결하라고 지시한 바 있다.HWPX는 국가표준(KS X 61…",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://www.aitimes.kr/news/articleView.html?idxno=42867",
+"cat": "뉴스",
+"src": "인공지능신문",
+"title": "오픈AI·시스코, 오픈소스 보안 런타임 시루도 공개...시스템 재시작 없이 리눅스 보호한다",
+"url": "https://www.aitimes.kr/news/articleView.html?idxno=42867",
+"date": "2026-11-24T20:07+09:00",
+"summary": "인공지능(AI)이 소프트웨어의 보안 취약점을 발견하는 것을 넘어 시스템 운영을 중단하지 않고 사이버 공격을 차단하는 보안 기술 개발에도 활용되고 있다.오픈AI(OpenAI)와 시스코(Cisco)는 23일(현지시간) 보안 패치가 배포되거나 시스템이 재시작될 때까지 기다리지 않고 가동 중인 리눅스(Linux) 시스템을 보호할…",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://www.aitimes.kr/news/articleView.html?idxno=42866",
+"cat": "뉴스",
+"src": "인공지능신문",
+"title": "AWS 맷 가먼 CEO “AI 안전, 모델의 행동을 신뢰하는 것은 희망에 의존하는 것”…독립적 통제 시스템 구축 촉구",
+"url": "https://www.aitimes.kr/news/articleView.html?idxno=42866",
+"date": "2026-11-24T19:40+09:00",
+"summary": "인공지능(AI) 에이전트가 인간을 대신해 자율적으로 판단하고 실제 업무를 수행하는 시대가 열리면서 AI 안전성 확보를 위한 기술적 통제 체계의 중요성이 커지고 있다.아마존웹서비스(AWS)의 맷 가먼(Matt Garman) CEO가 AI 시스템의 안전성을 모델 자체의 행동 규칙이나 비상 정지 장치에만 의존해서는 안 되며, …",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://it.chosun.com/news/articleView.html?idxno=3000000001699",
+"cat": "뉴스",
+"src": "IT조선",
+"title": "광운대 AI미디어솔루션학과, 기업 AI 실무형 석사과정 모집",
+"url": "https://it.chosun.com/news/articleView.html?idxno=3000000001699",
+"date": "2026-11-24T19:38+09:00",
+"summary": "광운대학교가 중소·중견기업 재직자를 대상으로 인공지능(AI) 실무 교육을 제공하는 석사과정 신입생을 모집한다. 재직자가 소속 기업의 실제 업무 과제를 AI 프로젝트로 수행하는 교육과정으로 정부와 기업이 등록금 일부를 분담한다.광운대는 중소벤처기업부 계약학과인 AI미디어솔루션학과의 2027학년도 전기 신입생 원서를 12월 …",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://www.aitimes.kr/news/articleView.html?idxno=42865",
+"cat": "뉴스",
+"src": "인공지능신문",
+"title": "삼성SDS, 2027년 임원 인사 10명 승진…AX·AI 인프라 사업 확대 위한 세대교체",
+"url": "https://www.aitimes.kr/news/articleView.html?idxno=42865",
+"date": "2026-11-24T19:32+09:00",
+"summary": "삼성SDS가 기업의 인공지능 전환(AX) 수요 확대에 대응해 AI 서비스와 클라우드 인프라, 솔루션, 디지털 물류 분야의 사업 및 기술 인재를 전진 배치했다.삼성SDS는 24일 부사장 4명, 상무 6명 등 총 10명을 승진시키는 2027년 정기 임원 인사를 단행하고 기업용 AI 시장의 성장과 클라우드 기반 서비스 확대에 …",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://www.aitimes.kr/news/articleView.html?idxno=42864",
+"cat": "뉴스",
+"src": "인공지능신문",
+"title": "삼성전자, 2027년 임원 인사 131명 승진…AI 메모리·피지컬 AI·파운드리 기술 인재 전진 배치",
+"url": "https://www.aitimes.kr/news/articleView.html?idxno=42864",
+"date": "2026-11-24T18:36+09:00",
+"summary": "삼성전자가 인공지능(AI) 메모리 시장에서 역대 최대 실적을 이끈 반도체 기술 인재를 중용하고, 피지컬 AI(Physical AI)와 휴머노이드, 파운드리 등 미래 성장동력 확보를 위한 차세대 기술리더를 전진 배치했다.삼성전자는 24일, 부사장 39명, 상무 78명, 펠로우(Fellow) 2명, 마스터(Master) 12…",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://www.aitimes.kr/news/articleView.html?idxno=42863",
+"cat": "뉴스",
+"src": "인공지능신문",
+"title": "한국인 1만명 게놈 분석, 미등록 유전변이 988만개 발굴…생체 나이 측정 정확도 높인다",
+"url": "https://www.aitimes.kr/news/articleView.html?idxno=42863",
+"date": "2026-11-24T18:21+09:00",
+"summary": "한국인 1만명 이상의 유전체를 분석해 기존 국제 유전변이 데이터베이스에 등록되지 않은 988만개의 유전변이가 발굴됐다. 개인과 인구집단의 유전적 차이가 생체 나이 측정에 영향을 미친다는 사실도 확인되면서 한국인 특성에 맞는 정밀의료와 노화 연구의 새로운 기반이 마련됐다.울산과학기술원(UNIST) 게놈센터(KOGIC)는 한…",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://it.chosun.com/news/articleView.html?idxno=3000000001687",
+"cat": "뉴스",
+"src": "IT조선",
+"title": "삼성전자, 131명 임원 승진…AI 메모리·여성 인재 약진",
+"url": "https://it.chosun.com/news/articleView.html?idxno=3000000001687",
+"date": "2026-11-24T18:19+09:00",
+"summary": "삼성전자가 24일 부사장 39명, 상무 78명, 펠로우(Fellow) 2명, 마스터(Master) 12명 등 총 131명을 승진시키는 2027년 정기 임원인사를 단행했다. 지난해 11월 부사장 51명, 상무 93명, 펠로우 1명, 마스터 16명 등 161명이 승진한 것과 대비해 30명 줄었다.이번 인사는 AI 수요 확대에…",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://www.aitimes.com/news/articleView.html?idxno=217620",
+"cat": "뉴스",
+"src": "AI타임스",
+"title": "[AI리더의 서가] AI 네이티브 개발자를 위한 OpenAI 코덱스 실전 활용법",
+"url": "https://www.aitimes.com/news/articleView.html?idxno=217620",
+"date": "2026-11-24T18:00+09:00",
+"summary": "AI 네이티브 개발자를 위한 OpenAI 코덱스 실전 활용법서지영 | 위키북스2026년 9월 10일추천이유저자가 OpenAI 코덱스를 활용해 실제 서비스 개발의 전 과정을 실습하도록 구성했습니다. 이 책은 단순한 AI 코드 생성을 넘어 분석, 개발, 테스트, 릴리스, 유지보수까지 실무 흐름 속에서 AI를 효과적으로 협력하…",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://www.aitimes.kr/news/articleView.html?idxno=42862",
+"cat": "뉴스",
+"src": "인공지능신문",
+"title": "젠슨 황 11일 만에 엔비디아 복귀…트럼프 직접 개입에 주가 31% 폭등, AI 산업 지배구조 논란 확산",
+"url": "https://www.aitimes.kr/news/articleView.html?idxno=42862",
+"date": "2026-11-24T17:29+09:00",
+"summary": "세계 인공지능(AI) 반도체 시장을 주도하는 엔비디아(NVIDIA)의 창업자 젠슨 황(Jensen Huang)이 사임 공식 발표 11일 만에 최고경영자(CEO)로 복귀했다. 도널드 트럼프(Donald Trump) 미국 대통령이 이사회에 직접 복귀를 설득하고, 엔비디아 이사회가 미국 정부 고위급의 의견을 근거로 국가안보 위…",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://www.aitimes.com/news/articleView.html?idxno=217711",
+"cat": "뉴스",
+"src": "AI타임스",
+"title": "황 복귀에 엔비디아 직원들 환호…머스크·알트먼도 환영",
+"url": "https://www.aitimes.com/news/articleView.html?idxno=217711",
+"date": "2026-11-24T16:10+09:00",
+"summary": "젠슨 황이 엔비디아 CEO로 복귀하자, 수백명의 직원이 본사에 모여 그의 이름을 연호하며 환호했다. 황은 \"두 번째에는 더 나은 CEO가 되겠다\"라고 약속했으며, 일론 머스크 테슬라 CEO와 샘 알트먼 오픈AI CEO 등 실리콘밸리 주요 인사들도 환영의 뜻을 밝혔다.테크크런치와 워싱턴포스트 등은 23일(현지시간) 황이 엔…",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://www.aitimes.com/news/articleView.html?idxno=217684",
+"cat": "뉴스",
+"src": "AI타임스",
+"title": "[11월23일] 'GPT-6'가 로봇의 두뇌까지 맡기 시작했다는 것의 의미",
+"url": "https://www.aitimes.com/news/articleView.html?idxno=217684",
+"date": "2026-11-24T16:00+09:00",
+"summary": "중국 유니트리의 왕싱싱 CEO는 최근 오픈AI의 'GPT-6 아스트라'를 활용해 휴머노이드가 별도의 작업별 모델 훈련 없이 그림을 그리고 체스를 두는 모습을 소개했습니다. 그는 앞서 로봇 분야에도 '챗GPT 모먼트'가 찾아올 것이라고 전망한 바 있습니다.엔비디아의 디푸 탈라 로봇사업 부사장도 GPT-6 아스트라가 로봇 개…",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://www.producthunt.com/products/dog-translator-supertranslator",
+"cat": "프로젝트",
+"src": "Product Hunt",
+"title": "Dog Translator SuperTranslator",
+"url": "https://www.producthunt.com/products/dog-translator-supertranslator",
+"date": "2026-11-24T15:34+09:00",
+"summary": "Dogs talking in English (real) Discussion | Link",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://www.producthunt.com/products/tinker-2",
+"cat": "프로젝트",
+"src": "Product Hunt",
+"title": "Inkling 2 Mini",
+"url": "https://www.producthunt.com/products/tinker-2",
+"date": "2026-11-24T15:34+09:00",
+"summary": "26B looped model for coding on your laptop Discussion | Link",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://www.producthunt.com/products/ashwa",
+"cat": "프로젝트",
+"src": "Product Hunt",
+"title": "Ashwa",
+"url": "https://www.producthunt.com/products/ashwa",
+"date": "2026-11-24T15:33+09:00",
+"summary": "Your AI companion that never forgets what you say Discussion | Link",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://www.producthunt.com/products/motionflare",
+"cat": "프로젝트",
+"src": "Product Hunt",
+"title": "Motionflare",
+"url": "https://www.producthunt.com/products/motionflare",
+"date": "2026-11-24T15:32+09:00",
+"summary": "Turn your website into a stunning launch video in minutes Discussion | Link",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://www.producthunt.com/products/modem",
+"cat": "프로젝트",
+"src": "Product Hunt",
+"title": "Modem",
+"url": "https://www.producthunt.com/products/modem",
+"date": "2026-11-24T15:31+09:00",
+"summary": "Find, fix, and follow up on every customer concern Discussion | Link",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://www.aitimes.com/news/articleView.html?idxno=217706",
+"cat": "뉴스",
+"src": "AI타임스",
+"title": "[기고] AI가 리만 가설을 풀었다면 수학은 끝난 것인가",
+"url": "https://www.aitimes.com/news/articleView.html?idxno=217706",
+"date": "2026-11-24T15:30+09:00",
+"summary": "■ 1700만 줄짜리 증명이 도착했다지난 20일 AI 기업 앤트로픽의 수학자 레벤트 알포게가 자사 AI '클로드'로 리만 가설을 증명했다고 발표했다. 1859년 리만이 제기한 뒤 167년 동안 아무도 풀지 못한 수학에서 가장 유명한 난제다. 증명은 컴퓨터가 검사하는 코드 1700만 줄로 쓰였다.다만 컴퓨터의 검사를 통과한…",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://www.producthunt.com/products/omi-work",
+"cat": "프로젝트",
+"src": "Product Hunt",
+"title": "Omi Work",
+"url": "https://www.producthunt.com/products/omi-work",
+"date": "2026-11-24T15:30+09:00",
+"summary": "Omi can build anything. Now it finds your next 100 customers Discussion | Link",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://www.producthunt.com/products/gauth-ai-course",
+"cat": "프로젝트",
+"src": "Product Hunt",
+"title": "Gauth Personal Study Agent",
+"url": "https://www.producthunt.com/products/gauth-ai-course",
+"date": "2026-11-24T15:30+09:00",
+"summary": "An AI study agent that remembers where you struggle Discussion | Link",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://www.producthunt.com/products/orpheus-2",
+"cat": "프로젝트",
+"src": "Product Hunt",
+"title": "Orpheus",
+"url": "https://www.producthunt.com/products/orpheus-2",
+"date": "2026-11-24T15:24+09:00",
+"summary": "Run all your Claude subscriptions from one place Discussion | Link",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://www.producthunt.com/products/replit",
+"cat": "프로젝트",
+"src": "Product Hunt",
+"title": "Replit Missions",
+"url": "https://www.producthunt.com/products/replit",
+"date": "2026-11-24T15:19+09:00",
+"summary": "Set a budget, coordinate teams of AI agents, Discussion | Link",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://www.producthunt.com/products/hydrilla",
+"cat": "프로젝트",
+"src": "Product Hunt",
+"title": "Hydrilla",
+"url": "https://www.producthunt.com/products/hydrilla",
+"date": "2026-11-24T15:03+09:00",
+"summary": "Generate production-ready 3D assets with AI Discussion | Link",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://www.producthunt.com/products/chat-with-work",
+"cat": "프로젝트",
+"src": "Product Hunt",
+"title": "Chat with Work",
+"url": "https://www.producthunt.com/products/chat-with-work",
+"date": "2026-11-24T15:00+09:00",
+"summary": "AI bots in Europe. They work. You decide. Discussion | Link",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://www.producthunt.com/products/tesla",
+"cat": "프로젝트",
+"src": "Product Hunt",
+"title": "Tesla Self-Driving V15",
+"url": "https://www.producthunt.com/products/tesla",
+"date": "2026-11-24T15:00+09:00",
+"summary": "Upgrading every part of the end-to-end driving network Discussion | Link",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://www.producthunt.com/products/mai-image-2-3",
+"cat": "프로젝트",
+"src": "Product Hunt",
+"title": "MAI Image 2.7",
+"url": "https://www.producthunt.com/products/mai-image-2-3",
+"date": "2026-11-24T15:00+09:00",
+"summary": "Microsoft's image model with precise edits and Canvas Discussion | Link",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://www.producthunt.com/products/polylane",
+"cat": "프로젝트",
+"src": "Product Hunt",
+"title": "Polylane Swarms",
+"url": "https://www.producthunt.com/products/polylane",
+"date": "2026-11-24T15:00+09:00",
+"summary": "A team of AI agents on your roughest production incidents Discussion | Link",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://www.producthunt.com/products/mobile-agent-testers",
+"cat": "프로젝트",
+"src": "Product Hunt",
+"title": "Mobile Agent Testers",
+"url": "https://www.producthunt.com/products/mobile-agent-testers",
+"date": "2026-11-24T15:00+09:00",
+"summary": "Free open-source AI agents that beta-test your app on phones Discussion | Link",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://www.producthunt.com/products/freddy",
+"cat": "프로젝트",
+"src": "Product Hunt",
+"title": "freddy",
+"url": "https://www.producthunt.com/products/freddy",
+"date": "2026-11-24T15:00+09:00",
+"summary": "Private health data server: talk to your health with any AI Discussion | Link",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://news.hada.io/topic?id=37766&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+"cat": "프로젝트",
+"src": "GeekNews",
+"title": "Show GN: Whaatcher - AI 에이전트 기반 W/F에 최적화된 새로운 지향점의 개발 도구",
+"url": "https://news.hada.io/topic?id=37766&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+"date": "2026-11-24T14:55+09:00",
+"summary": "AI 에이전트에게 코드 작성을 대부분 맡기면서 IDE, Code Editor, Git, 코드 분석 도구 등의 기존 도구에 대한 아쉬움이 커졌습니다. 자연스럽게 코드 생산량이 많아지고, 여러 프로젝트의 동시 작업도 많아지다 보면 직접 코드를 쓸 때와 달리 검수할 지점도 많이 다른데 이것이 고려된 도구를 찾기 어려웠습니다. …",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://www.aitimes.com/news/articleView.html?idxno=217709",
+"cat": "뉴스",
+"src": "AI타임스",
+"title": "젠슨 황 복귀에 엔비디아 주가 31% 급등…AI 관련주 동반 반등",
+"url": "https://www.aitimes.com/news/articleView.html?idxno=217709",
+"date": "2026-11-24T14:22+09:00",
+"summary": "젠슨 황이 엔비디아 CEO로 복귀하자 주가가 31% 급등하며 시가총액이 약 9500억달러(약 1275조원) 증가했다. 최근 급락했던 AI 반도체와 데이터센터 관련주에도 매수세가 몰리면서 나스닥 지수가 6% 넘게 오르는 등 미국 증시가 큰 폭으로 반등했다.23일(현지시간) 미국 증시에서 엔비디아 주가는 오후 3시12분 기준…",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://www.aitimes.com/news/articleView.html?idxno=217708",
+"cat": "뉴스",
+"src": "AI타임스",
+"title": "젠슨 황 복귀 배경은…트럼프 개입·주가 폭락·후임자 난항",
+"url": "https://www.aitimes.com/news/articleView.html?idxno=217708",
+"date": "2026-11-24T14:07+09:00",
+"summary": "젠슨 황의 복귀를 거부했던 엔비디아 이사회가 불과 엿새 만에 결정을 뒤집은 데에는 도널드 트럼프 미국 대통령의 직접 개입과 주가 폭락, 후임자 물색의 어려움 등이 복합적으로 작용한 것으로 분석된다. 특히 백악관이 JD 밴스 부통령까지 동원해 이사회를 설득한 것으로 알려져, 미국 정부의 개입이 복귀 결정에 중요한 역할을 했…",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://www.aitimes.com/news/articleView.html?idxno=217707",
+"cat": "뉴스",
+"src": "AI타임스",
+"title": "젠슨 황, 사임 11일 만에 엔비디아 CEO 복귀…트럼프 직접 개입",
+"url": "https://www.aitimes.com/news/articleView.html?idxno=217707",
+"date": "2026-11-24T13:50+09:00",
+"summary": "젠슨 황이 사임 11일 만에 엔비디아 CEO로 복귀했다. 복귀를 거부했던 이사회가 도널드 트럼프 미국 대통령의 개입 이후 결정을 뒤집은 것으로, 황의 복귀를 요구해 온 투자자와 AI 업계의 요구가 받아들여졌다.엔비디아는 23일(현지시간) 공식 발표를 통해 이사회가 만장일치로 황의 CEO 복귀를 승인했다고 밝혔다. 이에 따…",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.71.1",
+"cat": "도구",
+"src": "Gemini CLI",
+"title": "Release v0.71.1",
+"url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.71.1",
+"date": "2026-11-24T12:50+09:00",
+"summary": "What's Changed fix(patch): cherry-pick aafdfdf to release/v0.71.0-pr-30420 to patch version v0.71.0 and create version 0.71.1 by @gemini-cli-robot in #30429 Full Changelog : v0.71.…",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://github.com/openai/codex/releases/tag/rust-v0.174.0-alpha.1",
+"cat": "도구",
+"src": "Codex CLI",
+"title": "0.174.0-alpha.1",
+"url": "https://github.com/openai/codex/releases/tag/rust-v0.174.0-alpha.1",
+"date": "2026-11-24T10:51+09:00",
+"summary": "Release 0.174.0-alpha.1",
+"image": "",
+"score": 0,
+"important": true,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.71.0",
+"cat": "도구",
+"src": "Gemini CLI",
+"title": "Release v0.71.0",
+"url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.71.0",
+"date": "2026-11-24T10:16+09:00",
+"summary": "What's Changed Changelog for v0.70.0-preview.0 by @gemini-cli-robot in #30361 chore(release): bump version to 0.71.0-nightly.20261118.g615d6bc8c by @gemini-cli-robot in #30366 Chan…",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.71.0-nightly.20261124.gaafdfdfb5",
+"cat": "도구",
+"src": "Gemini CLI",
+"title": "Release v0.71.0-nightly.20261124.gaafdfdfb5",
+"url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.71.0-nightly.20261124.gaafdfdfb5",
+"date": "2026-11-24T10:13+09:00",
+"summary": "What's Changed fix(a2a-server): enforce bearer token authentication and request input validation by @diegogodinezr in #30420 Full Changelog : v0.71.0-nightly.20261123.geecccfcd5...…",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://news.hada.io/topic?id=37745&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+"cat": "커뮤니티",
+"src": "GeekNews",
+"title": "평가는 AI 엔지니어링에서 가장 과소평가된 역량이다",
+"url": "https://news.hada.io/topic?id=37745&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+"date": "2026-11-24T09:40+09:00",
+"summary": "모델이나 프롬프트를 바꿨을 때 실제로 개선됐는지 판단하려면 , 평가 지표보다 실제 실패 사례 분석부터 시작해야 함. 운영 기록 100개 이상에서 실패를 분류하고 가장 빈번한 문제부터 평가함 입력과 기대 결과, 평가 기준을 담은 기준 데이터셋을 버전 관리 해야 함. 합성 데이터도 사용자 유형, 질문 의도, 난도와 경계 조건…",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.72.0-preview.0",
+"cat": "도구",
+"src": "Gemini CLI",
+"title": "Release v0.72.0-preview.0",
+"url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.72.0-preview.0",
+"date": "2026-11-24T09:34+09:00",
+"summary": "What's Changed Changelog for v0.70.0 by @gemini-cli-robot in #30380 fix(core): handle nested .gitignore negations under dir/** patterns by @urielefrenvirtusa in #30370 fix(cli): ex…",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://news.hada.io/topic?id=37742&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+"cat": "커뮤니티",
+"src": "GeekNews",
+"title": "Pine - 파일과 메시지, 기기 변화에 반응해 작업하는 AI 에이전트 하네스",
+"url": "https://news.hada.io/topic?id=37742&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+"date": "2026-11-24T09:30+09:00",
+"summary": "새 파일, 메일, 메시지 같은 이벤트가 발생하면 에이전트가 작업을 시작 하는 실행 환경 \"스캔 폴더에 문서가 들어오면 요약하고 납부 금액과 기한을 정리해 줘\"처럼 감시할 대상과 할 일을 말로 지정 메일, Slack, Telegram, 웹훅, 웹페이지, RSS와 연결하고, MQTT나 기기 프로토콜로 센서와 가전의 변화에도 …",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://news.hada.io/topic?id=37741&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+"cat": "커뮤니티",
+"src": "GeekNews",
+"title": "shirudo - 에이전트 시대를 위한 BPF 라이브 패치 인프라",
+"url": "https://news.hada.io/topic?id=37741&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+"date": "2026-11-24T09:24+09:00",
+"summary": "Isovalent의 shirudo 는 서명된 BPF 마이크로 패치를 배포해 커널 취약점을 빠르게 완화하려는 프로젝트로, 재부팅 중심의 패치 주기와 에이전트의 취약점 발견 속도 사이의 격차에 대응함 에이전트리스 보안 플랫폼 을 목표로 초기 부팅부터 BPF 보호를 활성화하고, 서명 검증과 자산 봉인을 통해 악의적인 root …",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://news.hada.io/topic?id=37740&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+"cat": "커뮤니티",
+"src": "GeekNews",
+"title": "OpenAI와 Cisco, 실행 중인 Linux 시스템을 보호하는 오픈소스 런타임 Shirudo 공개",
+"url": "https://news.hada.io/topic?id=37740&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+"date": "2026-11-24T09:21+09:00",
+"summary": "OpenAI와 Cisco가 패치를 준비하고 배포하는 동안 Linux 서비스를 중단하지 않고 임시 보호를 적용하는 Shirudo 를 공개함 eBPF 기반 실드(shield) 로 취약점을 노출하는 동작을 차단하면서 정상 요청은 통과시키도록 설계했으며, 보안팀은 적용 전 영향을 관찰하고 배포 여부를 결정할 수 있음 통제된 테스…",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://github.com/openai/codex/releases/tag/rust-v0.172.0",
+"cat": "도구",
+"src": "Codex CLI",
+"title": "0.172.0",
+"url": "https://github.com/openai/codex/releases/tag/rust-v0.172.0",
+"date": "2026-11-24T09:06+09:00",
+"summary": "New Features Follow thread links from search results and transcripts to open saved conversations and nested agents in the terminal. ( #62332 ) Press Tab to complete arguments for s…",
+"image": "",
+"score": 0,
+"important": true,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://github.com/openai/codex/releases/tag/rust-v0.173.0-alpha.5",
+"cat": "도구",
+"src": "Codex CLI",
+"title": "rust-v0.173.0-alpha.5",
+"url": "https://github.com/openai/codex/releases/tag/rust-v0.173.0-alpha.5",
+"date": "2026-11-24T08:10+09:00",
+"summary": "Release 0.173.0-alpha.5",
+"image": "",
+"score": 0,
+"important": true,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay",
+"cat": "뉴스",
+"src": "The Verge",
+"title": "Tech leaders are celebrating Jensen Huang’s return",
+"url": "https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay",
+"date": "2026-11-24T07:35+09:00",
+"summary": "Let's say you're Jensen Huang. You (allegedly) cheated on your wife with an alleged Chinese spy, allegedly had an affair with not one, but two subordinates , and (allegedly!) \"terr…",
+"image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_01.jpg?quality=90&strip=all&crop=0,0,100,100",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
+"cat": "뉴스",
+"src": "The Verge",
+"title": "Trump engineered a risky comeback for Jensen Huang",
+"url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
+"date": "2026-11-24T07:34+09:00",
+"summary": "After Nvidia's board accepted Jensen Huang's resignation as CEO , following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to s…",
+"image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2297774940.jpg?quality=90&strip=all&crop=0,0,100,100",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
+"cat": "뉴스",
+"src": "The Verge",
+"title": "Welcome to elite impunity, Jensen Huang",
+"url": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
+"date": "2026-11-24T07:21+09:00",
+"summary": "Too big to fail, the sequel. | Image: The Verge; Getty Images I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basi…",
+"image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_06.jpg?quality=90&strip=all&crop=0,0,100,100",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+"cat": "뉴스",
+"src": "The Verge",
+"title": "Nvidia CEO Jensen Huang is back. What happens next?",
+"url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+"date": "2026-11-24T07:18+09:00",
+"summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an invest…",
+"image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0,0,100,100",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+"cat": "뉴스",
+"src": "TechCrunch",
+"title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+"url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+"date": "2026-11-24T07:05+09:00",
+"summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+"cat": "뉴스",
+"src": "TechCrunch",
+"title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+"url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+"date": "2026-11-24T07:02+09:00",
+"summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+"cat": "뉴스",
+"src": "TechCrunch",
+"title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+"url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+"date": "2026-11-24T06:47+09:00",
+"summary": "\"The mistake has been corrected,\" Elon Musk chimed in.",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://www.aitimes.kr/news/articleView.html?idxno=42861",
+"cat": "뉴스",
+"src": "인공지능신문",
+"title": "KAIST, 피지컬 AI·제조 AI 에이전트 산업 적용 논의…휴머노이드부터 자율제조까지 제조혁신 전략 공유",
+"url": "https://www.aitimes.kr/news/articleView.html?idxno=42861",
+"date": "2026-11-24T06:46+09:00",
+"summary": "한국과학기술원(KAIST)이 피지컬 인공지능(Physical AI)과 제조 AI 에이전트, 제조현장의 암묵지 활용 기술을 중심으로 산업계의 인공지능 전환(AX) 전략을 논의하는 자리를 마련한다. 제조업에 축적된 경험과 노하우를 AI가 활용할 수 있는 지식으로 전환하고, 실제 생산 현장에서 적용 가능한 기술과 사례를 공유하…",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://github.com/anthropics/claude-code/releases/tag/v2.1.331",
+"cat": "도구",
+"src": "Claude Code",
+"title": "v2.1.331",
+"url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.331",
+"date": "2026-11-24T06:34+09:00",
+"summary": "What's changed Added Code Mode support in terminal sessions on Amazon Bedrock, Google Cloud's Agent Platform, Microsoft Foundry and Claude Platform on AWS Added oidc.groups_jsonpat…",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+"cat": "뉴스",
+"src": "TechCrunch",
+"title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+"url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+"date": "2026-11-24T06:25+09:00",
+"summary": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal gover…",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://openai.com/index/introducing-shirudo",
+"cat": "회사 소식",
+"src": "OpenAI",
+"title": "OpenAI and Cisco introduce Shirudo",
+"url": "https://openai.com/index/introducing-shirudo",
+"date": "2026-11-24T06:20+09:00",
+"summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
+"cat": "뉴스",
+"src": "The Verge",
+"title": "AI data centers throw another wrench into chaotic UN climate talks",
+"url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
+"date": "2026-11-24T06:09+09:00",
+"summary": "People protest outside the plenary ahead of the closing plenary session on the final day of the COP31 UNFCCC climate conference on November 20th in Antalya, Turkey. | Photo: Getty …",
+"image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2306098413.jpg?quality=90&strip=all&crop=0,0,100,100",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://github.com/AyushRajSinghParihar/weaponized-curiosity",
+"cat": "스킬",
+"src": "새 에이전트 스킬",
+"title": "AyushRajSinghParihar/weaponized-curiosity",
+"url": "https://github.com/AyushRajSinghParihar/weaponized-curiosity",
+"date": "2026-11-24T05:59+09:00",
+"summary": "★60 · Portable Agent Skill for evidence-driven research, experimentation, and bounded optimization",
+"image": "https://opengraph.githubassets.com/1/AyushRajSinghParihar/weaponized-curiosity",
+"score": 60,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+"cat": "뉴스",
+"src": "TechCrunch",
+"title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+"url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+"date": "2026-11-24T05:38+09:00",
+"summary": "\"I'm going to be a better CEO the second time around,\" Huang told employees.",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
+"cat": "뉴스",
+"src": "The Verge",
+"title": "How Jensen Huang ended up as Nvidia CEO again",
+"url": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
+"date": "2026-11-24T05:38+09:00",
+"summary": "The Jensen Huang era of Nvidia nearly came to an end this month. Huang, who three decades ago cofounded what's come to be considered one of the most important companies in AI, resi…",
+"image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_04.jpg?quality=90&strip=all&crop=0,0,100,100",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://github.com/openai/codex/releases/tag/rust-v0.171.0-alpha.13.2",
+"cat": "도구",
+"src": "Codex CLI",
+"title": "0.171.0-alpha.13.2",
+"url": "https://github.com/openai/codex/releases/tag/rust-v0.171.0-alpha.13.2",
+"date": "2026-11-24T04:43+09:00",
+"summary": "Release 0.171.0-alpha.13.2",
+"image": "",
+"score": 0,
+"important": true,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+"cat": "뉴스",
+"src": "TechCrunch",
+"title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+"url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+"date": "2026-11-24T04:14+09:00",
+"summary": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording",
+"cat": "뉴스",
+"src": "The Verge",
+"title": "Nothing’s upcoming Ear Note is a pair of earbuds with AI transcription",
+"url": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording",
+"date": "2026-11-24T04:04+09:00",
+"summary": "Carl Pei via X \" data-has-syndication-rights=\"1\" src=\"https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/nothing.jpg?quality=90&strip=all&crop=0,0,100,100\" /> Nothing…",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://www.aitimes.kr/news/articleView.html?idxno=42859",
+"cat": "뉴스",
+"src": "인공지능신문",
+"title": "MIT, 노트북에서 구동하는 소형 AI로 아날로그 반도체 설계 자동화…최첨단 대형 AI에 근접한 성능 구현",
+"url": "https://www.aitimes.kr/news/articleView.html?idxno=42859",
+"date": "2026-11-24T04:03+09:00",
+"summary": "미국 매사추세츠공과대학교(MIT) 연구진이 노트북에서 실행할 수 있는 소형 언어모델(SLM)로 복잡한 아날로그 반도체 회로 설계를 자동화하는 인공지능(AI) 학습 기술을 개발했다. 수십억개 매개변수의 소형 모델이 최첨단 대형언어모델(LLM)에 근접한 설계 성능을 구현하면서도 컴퓨팅 비용을 낮추고 기업의 반도체 설계 기밀을…",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://www.theverge.com/policy/1040096/trump-nvidia-jensen-huang-reinstated",
+"cat": "뉴스",
+"src": "The Verge",
+"title": "White House brags that Trump was ‘totally involved’ in getting Jensen reinstated",
+"url": "https://www.theverge.com/policy/1040096/trump-nvidia-jensen-huang-reinstated",
+"date": "2026-11-24T03:48+09:00",
+"summary": "It sure looked like President Donald Trump played a role in Jensen Huang's reinstatement as Nvidia CEO - and now the White House is making sure everyone knows he was. \"President Tr…",
+"image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2250207971.jpg?quality=90&strip=all&crop=0,0,100,100",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://www.aitimes.kr/news/articleView.html?idxno=42858",
+"cat": "뉴스",
+"src": "인공지능신문",
+"title": "英 정부, 소버린 국방 AI 개발에 직접 투자…7,000만달러 유치한 ‘에이곤’ 지원",
+"url": "https://www.aitimes.kr/news/articleView.html?idxno=42858",
+"date": "2026-11-24T03:33+09:00",
+"summary": "영국 정부가 인공지능(AI) 기반 자율 국방 시스템을 개발하는 자국 스타트업에 직접 투자하며 소버린 AI(Sovereign AI) 역량 확보에 나섰다. 실제 군사 환경에서 수행하던 고비용 훈련과 시험을 가상전장으로 전환하고, 드론 공격과 통신 교란 등 다양한 위협 상황에 대응하는 국방 AI 기술을 자국에서 개발하겠다는 전…",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
+"cat": "뉴스",
+"src": "The Verge",
+"title": "Oregon and Virginia sue SpaceX over Grok’s porn deepfakes",
+"url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
+"date": "2026-11-24T03:26+09:00",
+"summary": "In separate but similar lawsuits filed on Monday, Oregon Attorney General Dan Rayfield and Virginia Attorney General Jay Jones accused SpaceX of violating state consumer protection…",
+"image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK419_DEEPFAKE_CVIRGINIA_F.jpg?quality=90&strip=all&crop=0,0,100,100",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://www.aitimes.kr/news/articleView.html?idxno=42857",
+"cat": "뉴스",
+"src": "인공지능신문",
+"title": "텐센트 클라우드, 사우디에 손바닥 정맥인식 AI 결제 도입 추진…학교부터 기업까지 확대",
+"url": "https://www.aitimes.kr/news/articleView.html?idxno=42857",
+"date": "2026-11-24T03:16+09:00",
+"summary": "중국 텐센트(Tencent)의 클라우드 사업부 텐센트 클라우드(Tencent Cloud)가 사우디아라비아에서 손바닥 정맥인식 기반 인공지능(AI) 결제와 출입관리 서비스 도입을 추진한다. 기존 카드나 비밀번호 대신 생체정보로 신원을 확인하는 기술을 교육기관에 우선 적용하고, 기업용 AI 서비스로 사업 범위를 확대할 계획이…",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+"cat": "뉴스",
+"src": "TechCrunch",
+"title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+"url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+"date": "2026-11-24T03:12+09:00",
+"summary": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy.",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://github.com/openai/codex/releases/tag/rust-v0.172.0-alpha.2.1",
+"cat": "도구",
+"src": "Codex CLI",
+"title": "0.172.0-alpha.2.1",
+"url": "https://github.com/openai/codex/releases/tag/rust-v0.172.0-alpha.2.1",
+"date": "2026-11-24T03:07+09:00",
+"summary": "Release 0.172.0-alpha.2.1",
+"image": "",
+"score": 0,
+"important": true,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://www.aitimes.kr/news/articleView.html?idxno=42856",
+"cat": "뉴스",
+"src": "인공지능신문",
+"title": "대만 경제부, 100대 연구개발 혁신기술상 9개 수상…반도체 AI 시뮬레이션 4~5시간서 10초 미만으로",
+"url": "https://www.aitimes.kr/news/articleView.html?idxno=42856",
+"date": "2026-11-24T03:01+09:00",
+"summary": "대만이 인공지능(AI)을 활용해 반도체 제조공정의 시뮬레이션 시간을 기존 4~5시간에서 10초 미만으로 단축하는 기술을 개발했다. 사용자 상황에 따라 정보를 조절하는 AI 스마트 안경과 비상 상황에서 스스로 안전하게 정차하는 자율주행 전기버스 기술도 국제 연구개발 혁신상을 수상했다.대만 경제부(Ministry of Eco…",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/",
+"cat": "뉴스",
+"src": "Wired",
+"title": "Jensen Huang Is Back, and So Is Nvidia’s Stock",
+"url": "https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/",
+"date": "2026-11-24T02:52+09:00",
+"summary": "Jensen Huang comes back, numbers go up. Maybe the reason behind the CEO’s return is just that simple?",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://www.aitimes.com/news/articleView.html?idxno=217693",
+"cat": "뉴스",
+"src": "AI타임스",
+"title": "'네온'이 3주 만에 '카본'을 추월한 이유…구글 \"3개 세대 동시 개발\"",
+"url": "https://www.aitimes.com/news/articleView.html?idxno=217693",
+"date": "2026-11-24T02:40+09:00",
+"summary": "구글이 대형 모델을 출시한 지 불과 3주 만에 최고 성능에서 이를 앞서는 중형급 모델을 선보이는 등 AI 개발 속도를 높이고 있다. 현재 모델과 차기·차차기 모델을 동시에 개발하고, 성능 평가와 학습을 반복하는 방식으로 새로운 모델을 잇달아 선보이고 있다는 설명이다.구글은 9월 말 '제미나이 4 아르곤'을 시작으로 10월…",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+"cat": "뉴스",
+"src": "MIT Tech Review",
+"title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+"url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+"date": "2026-11-24T02:36+09:00",
+"summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic n…",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://www.aitimes.com/news/articleView.html?idxno=217697",
+"cat": "뉴스",
+"src": "AI타임스",
+"title": "광주 상무역, AI로 열차 도착시간 예측…30초 남으면 표시 중단",
+"url": "https://www.aitimes.com/news/articleView.html?idxno=217697",
+"date": "2026-11-24T02:35+09:00",
+"summary": "광주 상무역에서 AI가 열차의 실시간 위치와 운행 데이터를 분석해 도착 예정 시간을 승객에게 안내하는 시스템이 운영되고 있다.광주교통공사는 ‘AI 기반 실시간 열차 도착시간 안내시스템 연구개발’ 논문이 한국철도학회 2026년 추계학술대회에서 우수논문발표상을 받았다고 20일 밝혔다.공사는 광주테크노파크의 지원을 받아 상무역…",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://www.aitimes.com/news/articleView.html?idxno=217694",
+"cat": "뉴스",
+"src": "AI타임스",
+"title": "광주 서구 직원들이 만든 AI 서비스 15종…구내식당 예약도 해결",
+"url": "https://www.aitimes.com/news/articleView.html?idxno=217694",
+"date": "2026-11-24T02:35+09:00",
+"summary": "전남광주통합특별시 서구 직원들이 생성형 AI를 활용해 구내식당 예약 서비스를 직접 개발했다. 별도 전문 개발인력 없이 직원들이 업무 현장의 불편을 해결한 것으로, 서구는 이 서비스를 포함해 AI 서비스 15종을 발굴했다.서구는 19일 서구청 들불홀에서 직원 주도 AI 학습동아리 결과보고회를 열고 ‘서구밥상’을 비롯한 AI…",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://www.aitimes.com/news/articleView.html?idxno=217703",
+"cat": "뉴스",
+"src": "AI타임스",
+"title": "오픈AI 연구책임자 \"AGI 달성까지 80% 진전…RSI는 25~50% 수준\"",
+"url": "https://www.aitimes.com/news/articleView.html?idxno=217703",
+"date": "2026-11-24T02:35+09:00",
+"summary": "오픈AI의 최고연구책임자(CRO)인 마크 첸이 AGI 달성까지 약 80% 진전했다고 평가했다. AGI는 산업혁명처럼 점진적으로 발전하는 과정이며, AI가 스스로 연구하고 성능을 개선하는 재귀적 자기개선(RSI)은 아직 25~50% 수준이라고 진단했다.첸 CRO는 지난 17일(현지시간) 앤드리슨 호로위츠가 공개한 팟캐스트 …",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://huggingface.co/blog/allenai/robotrack",
+"cat": "회사 소식",
+"src": "Hugging Face",
+"title": "RoboTrack: Point tracking for real-world robotic manipulation",
+"url": "https://huggingface.co/blog/allenai/robotrack",
+"date": "2026-11-24T02:20+09:00",
+"summary": "",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://www.aitimes.kr/news/articleView.html?idxno=42854",
+"cat": "뉴스",
+"src": "인공지능신문",
+"title": "[AI 리뷰] 엔비디아, 과학 연구용 오픈 AI 에이전트 플랫폼 공개…화학·신약·신소재 개발 가속화",
+"url": "https://www.aitimes.kr/news/articleView.html?idxno=42854",
+"date": "2026-11-24T02:18+09:00",
+"summary": "엔비디아(NVIDIA)가 화학과 생명과학, 신소재 개발 등 전문 과학 연구에 특화된 인공지능(AI) 에이전트를 구축할 수 있도록 오픈 모델과 과학 데이터셋, 학습 기술을 통합한 ‘네모트론 포 사이언스(Nemotron for Science)’를 공개했다.과학자가 AI에 질문해 답변을 얻는 수준을 넘어, AI 에이전트가 연구…",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+"cat": "뉴스",
+"src": "TechCrunch",
+"title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+"url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+"date": "2026-11-24T02:14+09:00",
+"summary": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
+"cat": "뉴스",
+"src": "The Verge",
+"title": "Claude AI can review pull requests and ship fixes on its own now",
+"url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
+"date": "2026-11-24T02:10+09:00",
+"summary": "Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and…",
+"image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB364_CLAUDE_2_C_96d15c-1.jpg?quality=90&strip=all&crop=0,0,100,100",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+"cat": "회사 소식",
+"src": "Google AI",
+"title": "A more tailored Google Search that’s uniquely yours",
+"url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+"date": "2026-11-24T02:00+09:00",
+"summary": "Google Search bar with the text \"Personal Intelligence\" surrounded by the Google Wallet, Google Drive, GMail, Google Photos, Google Calendar, and Google G logo icons",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
+"cat": "뉴스",
+"src": "TechCrunch",
+"title": "Jensen Huang isn’t out of the woods yet",
+"url": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
+"date": "2026-11-24T01:57+09:00",
+"summary": "Tech leaders should be clear-eyed about all the problems likely to come with Huang's reinstatement.",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
+"cat": "뉴스",
+"src": "TechCrunch",
+"title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
+"url": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
+"date": "2026-11-24T01:39+09:00",
+"summary": "\"I spoke to them, let me put it that way … And I convinced them,\" the president told CNBC.",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://github.com/EL4CTEO/shrink-anything",
+"cat": "MCP",
+"src": "새 MCP 저장소",
+"title": "EL4CTEO/shrink-anything",
+"url": "https://github.com/EL4CTEO/shrink-anything",
+"date": "2026-11-24T00:55+09:00",
+"summary": "★61 · Less code, same tests passing: delete the dead code, files, dependencies and assets in any codebase, and keep each cut only if your own tests still pass.",
+"image": "https://opengraph.githubassets.com/1/EL4CTEO/shrink-anything",
+"score": 61,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
 "id": "https://www.aitimes.com/news/articleView.html?idxno=217689",
 "cat": "뉴스",
 "src": "AI타임스",
@@ -78,6 +1469,32 @@
 "added": "2026-11-23T16:20+09:00"
 },
 {
+"id": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
+"cat": "뉴스",
+"src": "TechCrunch",
+"title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
+"url": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
+"date": "2026-11-24T00:04+09:00",
+"summary": "The president cited the U.S. attorney general in defending Huang's return, while urging Nvidia to continue its export-control investigation.",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+"cat": "뉴스",
+"src": "TechCrunch",
+"title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+"url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+"date": "2026-11-23T23:43+09:00",
+"summary": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round.",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
 "id": "https://it.chosun.com/news/articleView.html?idxno=3000000001625",
 "cat": "뉴스",
 "src": "IT조선",
@@ -91,6 +1508,19 @@
 "added": "2026-11-23T16:20+09:00"
 },
 {
+"id": "https://www.wired.com/story/jensen-huang-is-back-as-nvidia-ceo/",
+"cat": "뉴스",
+"src": "Wired",
+"title": "Jensen Huang Is Back as Nvidia CEO",
+"url": "https://www.wired.com/story/jensen-huang-is-back-as-nvidia-ceo/",
+"date": "2026-11-23T23:27+09:00",
+"summary": "The company’s board of directors has reinstated Huang a little more than a week after the CEO resigned amid allegations of multiple affairs, including with a direct report.",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
 "id": "https://www.aitimes.kr/news/articleView.html?idxno=42853",
 "cat": "뉴스",
 "src": "인공지능신문",
@@ -102,6 +1532,19 @@
 "score": 0,
 "important": false,
 "added": "2026-11-23T16:20+09:00"
+},
+{
+"id": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+"cat": "뉴스",
+"src": "TechCrunch",
+"title": "Nvidia reverses course and brings Jensen Huang back as CEO",
+"url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+"date": "2026-11-23T23:21+09:00",
+"summary": "The stunning reversal was supported by senior officials in the U.S. government.",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
 },
 {
 "id": "https://www.aitimes.kr/news/articleView.html?idxno=42852",
@@ -141,6 +1584,19 @@
 "score": 0,
 "important": false,
 "added": "2026-11-23T16:20+09:00"
+},
+{
+"id": "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/",
+"cat": "뉴스",
+"src": "Wired",
+"title": "Nvidia Is Powering Brain-Computer Interfaces Now",
+"url": "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/",
+"date": "2026-11-23T22:11+09:00",
+"summary": "Brain-computer interface company Paradromics is using Nvidia’s computing hardware and software to process brain data.",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
 },
 {
 "id": "https://www.aitimes.com/news/articleView.html?idxno=217680",
@@ -286,6 +1742,19 @@
 "added": "2026-11-23T16:20+09:00"
 },
 {
+"id": "https://www.wired.com/story/livestream-will-anyone-keep-us-safe-from-ai/",
+"cat": "뉴스",
+"src": "Wired",
+"title": "Submit Your Questions: Will Anyone Keep You Safe From AI?",
+"url": "https://www.wired.com/story/livestream-will-anyone-keep-us-safe-from-ai/",
+"date": "2026-11-23T21:00+09:00",
+"summary": "Experts agree that AI, in one way or another, poses real danger. Will the industry do anything about it? Join our livestream on December 2 to hear your questions answered.",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
 "id": "https://www.aitimes.kr/news/articleView.html?idxno=42849",
 "cat": "뉴스",
 "src": "인공지능신문",
@@ -351,6 +1820,19 @@
 "added": "2026-11-23T16:20+09:00"
 },
 {
+"id": "https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/",
+"cat": "뉴스",
+"src": "Wired",
+"title": "States Sue SpaceX Over Grok Deepfakes",
+"url": "https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/",
+"date": "2026-11-23T20:00+09:00",
+"summary": "The attorneys general of Oregon and Virginia are suing several of Elon Musk’s companies, alleging they implemented weak safeguards against sexualized imagery of real people, includ…",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
 "id": "https://it.chosun.com/news/articleView.html?idxno=3000000001600",
 "cat": "뉴스",
 "src": "IT조선",
@@ -401,6 +1883,32 @@
 "score": 0,
 "important": false,
 "added": "2026-11-23T16:20+09:00"
+},
+{
+"id": "https://github.com/MaryCache/tsuzuri",
+"cat": "스킬",
+"src": "새 에이전트 스킬",
+"title": "MaryCache/tsuzuri",
+"url": "https://github.com/MaryCache/tsuzuri",
+"date": "2026-11-23T19:06+09:00",
+"summary": "★108 · Claude Code・Codex・Antigravity などの AI コーディングエージェントに、執筆意図と文機能つきで一文ずつ日本語の文章を執筆・レビューさせるスキルと閲覧アプリ",
+"image": "https://opengraph.githubassets.com/1/MaryCache/tsuzuri",
+"score": 108,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://www.wired.com/story/goodbye-world-the-end-of-programmers/",
+"cat": "뉴스",
+"src": "Wired",
+"title": "Goodbye, World: The End of Programmers",
+"url": "https://www.wired.com/story/goodbye-world-the-end-of-programmers/",
+"date": "2026-11-23T19:00+09:00",
+"summary": "The last thing you should ever read—and the last thing I may ever write—about the craft of coding.",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
 },
 {
 "id": "https://www.aitimes.kr/news/articleView.html?idxno=42842",
@@ -468,6 +1976,32 @@
 "added": "2026-11-23T16:20+09:00"
 },
 {
+"id": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+"cat": "회사 소식",
+"src": "OpenAI",
+"title": "Connected intelligence for in-house legal",
+"url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+"date": "2026-11-23T17:00+09:00",
+"summary": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusabl…",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
+"id": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+"cat": "회사 소식",
+"src": "OpenAI",
+"title": "Richpanel helps companies automate 50% of support in 30 days",
+"url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+"date": "2026-11-23T17:00+09:00",
+"summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
 "id": "https://www.aitimes.com/news/articleView.html?idxno=217665",
 "cat": "뉴스",
 "src": "AI타임스",
@@ -503,7 +2037,7 @@
 "summary": "★+1,716 오늘 · A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerabilit…",
 "image": "https://opengraph.githubassets.com/1/elementalsouls/Claude-BugHunter",
 "added": "2026-11-23T15:30+09:00",
-"score": 1716,
+"score": 2029,
 "important": true
 },
 {
@@ -516,7 +2050,7 @@
 "summary": "★+788 오늘 · An agentic skills framework & software development methodology that works.",
 "image": "https://opengraph.githubassets.com/1/obra/superpowers",
 "added": "2026-11-23T15:30+09:00",
-"score": 788,
+"score": 840,
 "important": false
 },
 {
@@ -529,7 +2063,7 @@
 "summary": "★+699 오늘 · \"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
 "image": "https://opengraph.githubassets.com/1/HKUDS/CLI-Anything",
 "added": "2026-11-23T15:30+09:00",
-"score": 699,
+"score": 790,
 "important": false
 },
 {
@@ -542,7 +2076,7 @@
 "summary": "★+473 오늘 · 🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
 "image": "https://opengraph.githubassets.com/1/jingyaogong/minimind",
 "added": "2026-11-23T15:30+09:00",
-"score": 473,
+"score": 828,
 "important": false
 },
 {
@@ -555,7 +2089,7 @@
 "summary": "★+294 오늘 · Cursor plugin specification and official plugins",
 "image": "https://opengraph.githubassets.com/1/cursor/plugins",
 "added": "2026-11-23T15:30+09:00",
-"score": 294,
+"score": 397,
 "important": false
 },
 {
@@ -568,7 +2102,7 @@
 "summary": "★+915 오늘 · Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
 "image": "https://opengraph.githubassets.com/1/firecrawl/firecrawl",
 "added": "2026-11-23T15:30+09:00",
-"score": 915,
+"score": 924,
 "important": false
 },
 {
@@ -581,7 +2115,7 @@
 "summary": "★+163 오늘 · The official NGINX Open Source repository.",
 "image": "https://opengraph.githubassets.com/1/nginx/nginx",
 "added": "2026-11-23T15:30+09:00",
-"score": 163,
+"score": 174,
 "important": false
 },
 {
@@ -594,7 +2128,7 @@
 "summary": "★+158 오늘 · OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
 "image": "https://opengraph.githubassets.com/1/openvinotoolkit/openvino",
 "added": "2026-11-23T15:30+09:00",
-"score": 158,
+"score": 184,
 "important": false
 },
 {
@@ -607,7 +2141,7 @@
 "summary": "★+518 오늘 · Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermai…",
 "image": "https://opengraph.githubassets.com/1/cathrynlavery/diagram-design",
 "added": "2026-11-23T15:30+09:00",
-"score": 518,
+"score": 620,
 "important": false
 },
 {
@@ -620,7 +2154,7 @@
 "summary": "★+668 오늘 · AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
 "image": "https://opengraph.githubassets.com/1/mvanhorn/last30days-skill",
 "added": "2026-11-23T15:30+09:00",
-"score": 668,
+"score": 797,
 "important": false
 },
 {
@@ -633,7 +2167,7 @@
 "summary": "★+494 오늘 · A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as An…",
 "image": "https://opengraph.githubassets.com/1/google-labs-code/stitch-skills",
 "added": "2026-11-23T15:30+09:00",
-"score": 494,
+"score": 422,
 "important": false
 },
 {
@@ -646,7 +2180,7 @@
 "summary": "★+621 오늘 · Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data saf…",
 "image": "https://opengraph.githubassets.com/1/mjmirza/app-store-compliance",
 "added": "2026-11-23T15:30+09:00",
-"score": 621,
+"score": 761,
 "important": false
 },
 {
@@ -659,7 +2193,7 @@
 "summary": "★+399 오늘 · The open-source agent for CI/CD reliability.",
 "image": "https://opengraph.githubassets.com/1/Tracer-Cloud/opensre",
 "added": "2026-11-23T15:30+09:00",
-"score": 399,
+"score": 436,
 "important": false
 },
 {
@@ -672,7 +2206,7 @@
 "summary": "★+542 오늘 · There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, …",
 "image": "https://opengraph.githubassets.com/1/toeverything/AFFiNE",
 "added": "2026-11-23T15:30+09:00",
-"score": 542,
+"score": 595,
 "important": false
 },
 {
@@ -685,8 +2219,8 @@
 "summary": "★+701 오늘 · The only downloader you need. 下载器的集大成者。",
 "image": "https://opengraph.githubassets.com/1/XiaoYouChR/Ghost-Downloader-3",
 "added": "2026-11-23T15:30+09:00",
-"score": 701,
-"important": false
+"score": 1087,
+"important": true
 },
 {
 "id": "https://github.com/zhouxiaoka/autoclip",
@@ -698,7 +2232,7 @@
 "summary": "★+641 오늘 · AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
 "image": "https://opengraph.githubassets.com/1/zhouxiaoka/autoclip",
 "added": "2026-11-23T15:30+09:00",
-"score": 641,
+"score": 907,
 "important": false
 },
 {
@@ -1051,6 +2585,19 @@
 "added": "2026-11-23T15:30+09:00"
 },
 {
+"id": "https://huggingface.co/blog/agentic-evals",
+"cat": "회사 소식",
+"src": "Hugging Face",
+"title": "How to build and maintain an agentic evaluation",
+"url": "https://huggingface.co/blog/agentic-evals",
+"date": "2026-11-23T09:00+09:00",
+"summary": "",
+"image": "",
+"score": 0,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
 "id": "https://www.producthunt.com/products/stitch-loop",
 "cat": "프로젝트",
 "src": "Product Hunt",
@@ -1062,6 +2609,19 @@
 "added": "2026-11-23T15:30+09:00",
 "score": 0,
 "important": false
+},
+{
+"id": "https://pequalnp.com/",
+"cat": "커뮤니티",
+"src": "Hacker News",
+"title": "Agent swarm trying to solve P vs. NP",
+"url": "https://pequalnp.com/",
+"date": "2026-11-23T06:53+09:00",
+"summary": "191 points · 댓글 170",
+"image": "",
+"score": 191,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
 },
 {
 "id": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
@@ -1099,8 +2659,8 @@
 "summary": "393 points · 댓글 157",
 "image": "",
 "added": "2026-11-23T15:30+09:00",
-"score": 420,
-"important": false
+"score": 749,
+"important": true
 },
 {
 "id": "https://www.producthunt.com/products/openvorld",
@@ -1114,6 +2674,19 @@
 "added": "2026-11-23T15:30+09:00",
 "score": 0,
 "important": false
+},
+{
+"id": "https://github.com/usejog/joggernaut",
+"cat": "스킬",
+"src": "새 Claude 스킬",
+"title": "usejog/joggernaut",
+"url": "https://github.com/usejog/joggernaut",
+"date": "2026-11-23T05:30+09:00",
+"summary": "★26 · Agent skills that find why your PRs wait on GitHub Actions CI, fix the cause you pick, and measure the fix. Built from fixes other teams measured, plus first-principles check…",
+"image": "https://opengraph.githubassets.com/1/usejog/joggernaut",
+"score": 26,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
 },
 {
 "id": "https://www.producthunt.com/products/volcano-3",
@@ -1216,8 +2789,8 @@
 "summary": "★114 · Find the holes before someone else does. A fast, 100% Rust vulnerability scanner: XSS, SQL injection, leaked secrets, dependency CVEs and AI agent setups.",
 "image": "https://opengraph.githubassets.com/1/erkamyaman/safe-anything",
 "added": "2026-11-23T15:30+09:00",
-"score": 144,
-"important": false
+"score": 527,
+"important": true
 },
 {
 "id": "https://www.aitimes.com/news/articleView.html?idxno=217427",
@@ -1255,7 +2828,7 @@
 "summary": "302 points · 댓글 74",
 "image": "",
 "added": "2026-11-23T15:30+09:00",
-"score": 309,
+"score": 357,
 "important": true
 },
 {
@@ -1272,6 +2845,19 @@
 "added": "2026-11-23T16:20+09:00"
 },
 {
+"id": "https://github.com/josevdr95new/opencode-team",
+"cat": "스킬",
+"src": "새 Claude 스킬",
+"title": "josevdr95new/opencode-team",
+"url": "https://github.com/josevdr95new/opencode-team",
+"date": "2026-11-22T22:13+09:00",
+"summary": "★23 · 🤖 Equipo multi-agente para OpenCode: orquestador + 6 subagentes (designer, frontend, backend, developer, debugger, security-auditor) con flujo SDD (Spec-Driven Development), …",
+"image": "https://opengraph.githubassets.com/1/josevdr95new/opencode-team",
+"score": 23,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
 "id": "https://www.aitimes.com/news/articleView.html?idxno=217656",
 "cat": "뉴스",
 "src": "AI타임스",
@@ -1283,6 +2869,19 @@
 "score": 0,
 "important": false,
 "added": "2026-11-23T16:20+09:00"
+},
+{
+"id": "https://github.com/lbc9168/antigravity-codex-worker",
+"cat": "스킬",
+"src": "새 에이전트 스킬",
+"title": "lbc9168/antigravity-codex-worker",
+"url": "https://github.com/lbc9168/antigravity-codex-worker",
+"date": "2026-11-22T21:05+09:00",
+"summary": "★90 · Antigravity Skill to orchestrate local OpenAI Codex CLI as a sandboxed coding worker while Gemini/Opus acts as Architect & Reviewer",
+"image": "https://opengraph.githubassets.com/1/lbc9168/antigravity-codex-worker",
+"score": 90,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
 },
 {
 "id": "https://www.aitimes.com/news/articleView.html?idxno=217655",
@@ -1371,7 +2970,7 @@
 "date": "2026-11-22T19:51+09:00",
 "summary": "★125 · e-Devlet Alt-Üst Soy Bilgisi + T.C. Cumhurbaşkanlığı Devlet Arşivleri (Osmanlı & Cumhuriyet) üzerinden 1500'lere kadar 1:1 kanıtlı soy kütüğü ve köy tarihi araştırma beceris…",
 "image": "https://opengraph.githubassets.com/1/shnfatih-hash/devlet-arsivleri-soykutugu",
-"score": 125,
+"score": 148,
 "important": false,
 "added": "2026-11-23T16:17+09:00"
 },
@@ -1467,6 +3066,19 @@
 "important": true
 },
 {
+"id": "https://github.com/owoevan-dev/sfx-skill",
+"cat": "스킬",
+"src": "새 Claude 스킬",
+"title": "owoevan-dev/sfx-skill",
+"url": "https://github.com/owoevan-dev/sfx-skill",
+"date": "2026-11-22T15:27+09:00",
+"summary": "★30 · An Agent Skill that designs original sound effects for games and apps as editable layers of synthesis and CC0 field recordings, then renders variants, levels the set and expo…",
+"image": "https://opengraph.githubassets.com/1/owoevan-dev/sfx-skill",
+"score": 30,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
 "id": "https://github.com/tamnd/riemann-handbook",
 "cat": "프로젝트",
 "src": "Show HN",
@@ -1476,7 +3088,7 @@
 "summary": "87 points · 댓글 59",
 "image": "",
 "added": "2026-11-23T15:30+09:00",
-"score": 88,
+"score": 89,
 "important": false
 },
 {
@@ -1595,6 +3207,19 @@
 "important": false
 },
 {
+"id": "https://github.com/Developing-Gamer/agent-sim",
+"cat": "MCP",
+"src": "새 MCP 저장소",
+"title": "Developing-Gamer/agent-sim",
+"url": "https://github.com/Developing-Gamer/agent-sim",
+"date": "2026-11-22T05:26+09:00",
+"summary": "★225 · iOS simulators for AI agents, on Linux",
+"image": "https://opengraph.githubassets.com/1/Developing-Gamer/agent-sim",
+"score": 225,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
 "id": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
 "cat": "뉴스",
 "src": "The Verge",
@@ -1619,6 +3244,19 @@
 "score": 0,
 "important": false,
 "added": "2026-11-23T16:20+09:00"
+},
+{
+"id": "https://github.com/android2linux/android2linux",
+"cat": "스킬",
+"src": "새 에이전트 스킬",
+"title": "android2linux/android2linux",
+"url": "https://github.com/android2linux/android2linux",
+"date": "2026-11-22T03:22+09:00",
+"summary": "★80 · Turn an Android phone into a Linux pocket computer you control: guides, an agent skill, phone notes, scripts and apps for postmarketOS and Ubuntu Touch.",
+"image": "https://opengraph.githubassets.com/1/android2linux/android2linux",
+"score": 80,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
 },
 {
 "id": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
@@ -1686,6 +3324,19 @@
 "added": "2026-11-23T16:17+09:00"
 },
 {
+"id": "https://github.com/qianyiai/kurocat",
+"cat": "MCP",
+"src": "새 MCP 저장소",
+"title": "qianyiai/kurocat",
+"url": "https://github.com/qianyiai/kurocat",
+"date": "2026-11-22T00:49+09:00",
+"summary": "★429 · KuroCat — Free open-source desktop typing cat pet & OBS overlay (Bongo Cat alternative, Tauri v2 + Rust + MCP)｜轻量级透明置顶桌面打字小黑猫伴侣（6款猫咪+鲸鱼娘大肥鱼 / 输密码防偷窥 / OBS透明源 / AI捏猫 / Win·Ma…",
+"image": "https://opengraph.githubassets.com/1/qianyiai/kurocat",
+"score": 429,
+"important": true,
+"added": "2026-11-24T15:35+09:00"
+},
+{
 "id": "https://onurgumus.github.io/zero-csharp/index.html",
 "cat": "프로젝트",
 "src": "Show HN",
@@ -1695,7 +3346,7 @@
 "summary": "176 points · 댓글 126",
 "image": "",
 "added": "2026-11-23T15:30+09:00",
-"score": 176,
+"score": 179,
 "important": false
 },
 {
@@ -1734,7 +3385,7 @@
 "summary": "★2247 · Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
 "image": "https://opengraph.githubassets.com/1/EL4CTEO/fast-anything",
 "added": "2026-11-23T15:30+09:00",
-"score": 2310,
+"score": 3284,
 "important": true
 },
 {
@@ -1798,7 +3449,7 @@
 "date": "2026-11-21T20:44+09:00",
 "summary": "★197 · An agent skill for alignment passes: draw guide lines down an interface, find every item that misses its line, fix the padding.",
 "image": "https://opengraph.githubassets.com/1/pritamux/gridlines",
-"score": 197,
+"score": 229,
 "important": false,
 "added": "2026-11-23T16:17+09:00"
 },
@@ -1863,7 +3514,7 @@
 "date": "2026-11-21T17:39+09:00",
 "summary": "★22 · Agent skill for writing ML conference papers (ICLR, NeurIPS, ICML) in the style of human-written papers that follow academic conventions.",
 "image": "https://opengraph.githubassets.com/1/LehengTHU/humanize-ml-paper",
-"score": 22,
+"score": 24,
 "important": false,
 "added": "2026-11-23T16:17+09:00"
 },
@@ -1877,7 +3528,7 @@
 "summary": "★436 · Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built …",
 "image": "https://opengraph.githubassets.com/1/w01fb0ss/PiBot",
 "added": "2026-11-23T15:30+09:00",
-"score": 442,
+"score": 520,
 "important": true
 },
 {
@@ -1967,7 +3618,7 @@
 "date": "2026-11-21T07:17+09:00",
 "summary": "★81 · 97 tested hypotheses on making huge MoE LLMs fast on consumer GPUs (4x RTX 3090 + experts in RAM): what worked, what failed and why. A playbook for people and a ready skill f…",
 "image": "https://opengraph.githubassets.com/1/alesha-pro/inference-optimization-playbook",
-"score": 81,
+"score": 85,
 "important": false,
 "added": "2026-11-23T16:17+09:00"
 },
@@ -2020,7 +3671,7 @@
 "summary": "125 points · 댓글 36",
 "image": "",
 "added": "2026-11-23T15:30+09:00",
-"score": 125,
+"score": 127,
 "important": false
 },
 {
@@ -2102,6 +3753,19 @@
 "added": "2026-11-23T16:20+09:00"
 },
 {
+"id": "https://github.com/Artesiana/bridge-anything",
+"cat": "스킬",
+"src": "새 에이전트 스킬",
+"title": "Artesiana/bridge-anything",
+"url": "https://github.com/Artesiana/bridge-anything",
+"date": "2026-11-21T02:57+09:00",
+"summary": "★53 · Your app needs data from software without an API. An agent skill that builds the bridge (REST, MCP, CLI) with REA.",
+"image": "https://opengraph.githubassets.com/1/Artesiana/bridge-anything",
+"score": 53,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
 "id": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
 "cat": "뉴스",
 "src": "TechCrunch",
@@ -2154,6 +3818,19 @@
 "added": "2026-11-23T16:20+09:00"
 },
 {
+"id": "https://github.com/w1ccc/sap-data-mcp",
+"cat": "MCP",
+"src": "새 MCP 저장소",
+"title": "w1ccc/sap-data-mcp",
+"url": "https://github.com/w1ccc/sap-data-mcp",
+"date": "2026-11-21T00:15+09:00",
+"summary": "★96 · Read-only MCP servers that let AI assistants query SAP S/4HANA through RFC/BAPI, private-cloud OData and public-cloud released APIs. Every call audited; credentials stay loca…",
+"image": "https://opengraph.githubassets.com/1/w1ccc/sap-data-mcp",
+"score": 96,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
 "id": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
 "cat": "뉴스",
 "src": "TechCrunch",
@@ -2201,7 +3878,7 @@
 "date": "2026-11-20T23:32+09:00",
 "summary": "★533 · Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi.",
 "image": "https://opengraph.githubassets.com/1/danielwh2/sprite-stacking",
-"score": 534,
+"score": 698,
 "important": true,
 "added": "2026-11-23T16:17+09:00"
 },
@@ -2245,6 +3922,19 @@
 "added": "2026-11-23T16:20+09:00"
 },
 {
+"id": "https://cherwellvalleymotorclub.app",
+"cat": "프로젝트",
+"src": "Show HN",
+"title": "Show HN: Drive around my village in 3D",
+"url": "https://cherwellvalleymotorclub.app",
+"date": "2026-11-20T22:32+09:00",
+"summary": "112 points · 댓글 79",
+"image": "",
+"score": 112,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
+},
+{
 "id": "https://github.com/zou172866/agy-dart",
 "cat": "MCP",
 "src": "새 MCP 저장소",
@@ -2256,6 +3946,19 @@
 "added": "2026-11-23T15:30+09:00",
 "score": 72,
 "important": false
+},
+{
+"id": "https://github.com/zou172866/antigravity-agy-dart",
+"cat": "MCP",
+"src": "새 MCP 저장소",
+"title": "zou172866/antigravity-agy-dart",
+"url": "https://github.com/zou172866/antigravity-agy-dart",
+"date": "2026-11-20T21:39+09:00",
+"summary": "★109 · Google Antigravity plugin that improves cache hits, keeps cache warm automatically, protects context quota, shows live context usage, rescues crashed sessions, and saves tok…",
+"image": "https://opengraph.githubassets.com/1/zou172866/antigravity-agy-dart",
+"score": 109,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
 },
 {
 "id": "https://www.aitimes.kr/news/articleView.html?idxno=42823",
@@ -2305,7 +4008,7 @@
 "date": "2026-11-20T20:48+09:00",
 "summary": "★134 · Let AI manage itself — a cross-harness kit for runtime status, context renewal, self-duplication and more",
 "image": "https://opengraph.githubassets.com/1/AI4XE/ai4ai",
-"score": 134,
+"score": 135,
 "important": false,
 "added": "2026-11-23T16:17+09:00"
 },
@@ -2344,7 +4047,7 @@
 "date": "2026-11-20T16:44+09:00",
 "summary": "★147 · Agent skills for Nest framework (node.js) 🕵️‍♂️",
 "image": "https://opengraph.githubassets.com/1/nestjs/agent-skills",
-"score": 147,
+"score": 156,
 "important": false,
 "added": "2026-11-23T16:17+09:00"
 },
@@ -2371,7 +4074,7 @@
 "summary": "★78 · A local canvas of everything your Claude Code sessions make.",
 "image": "https://opengraph.githubassets.com/1/krispuckett/rounds",
 "added": "2026-11-23T15:30+09:00",
-"score": 78,
+"score": 82,
 "important": false
 },
 {
@@ -2383,7 +4086,7 @@
 "date": "2026-11-20T13:14+09:00",
 "summary": "★84 · AI-assisted game analysis and reconstruction, working toward one-click workflows for any game.",
 "image": "https://opengraph.githubassets.com/1/GF007/game-rebuild-kit",
-"score": 84,
+"score": 95,
 "important": false,
 "added": "2026-11-23T16:17+09:00"
 },
@@ -2748,7 +4451,7 @@
 "summary": "138 points · 댓글 48",
 "image": "",
 "added": "2026-11-23T15:30+09:00",
-"score": 138,
+"score": 142,
 "important": false
 },
 {
@@ -2774,7 +4477,7 @@
 "summary": "129 points · 댓글 96",
 "image": "",
 "added": "2026-11-23T15:30+09:00",
-"score": 129,
+"score": 132,
 "important": false
 },
 {
@@ -2787,7 +4490,7 @@
 "summary": "★63 · High-performance Android ARM64 .so emulator, zero-copy binary tracer, QuickJS engine, async multi-core RPC & MCP server in pure Rust",
 "image": "https://opengraph.githubassets.com/1/tiwe0/runidbg",
 "added": "2026-11-23T15:30+09:00",
-"score": 63,
+"score": 73,
 "important": false
 },
 {
@@ -2813,7 +4516,7 @@
 "summary": "★99 · Autonomous airdrop operator: identities, wallets, socials, testnets, quests, radar — guarded CLI + MCP",
 "image": "https://opengraph.githubassets.com/1/setyamickala/airdrop-agent",
 "added": "2026-11-23T15:30+09:00",
-"score": 99,
+"score": 102,
 "important": false
 },
 {
@@ -2826,8 +4529,21 @@
 "summary": "★620 · Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native U…",
 "image": "https://opengraph.githubassets.com/1/INK-Q/agy-fast",
 "added": "2026-11-23T15:30+09:00",
-"score": 631,
+"score": 827,
 "important": true
+},
+{
+"id": "https://github.com/BoneD-Q/contextbridge",
+"cat": "스킬",
+"src": "새 에이전트 스킬",
+"title": "BoneD-Q/contextbridge",
+"url": "https://github.com/BoneD-Q/contextbridge",
+"date": "2026-11-19T13:22+09:00",
+"summary": "★63 · Skills-first AI context handoff with structured evidence, uncertainty tracking, validation, and cross-agent knowledge transfer.",
+"image": "https://opengraph.githubassets.com/1/BoneD-Q/contextbridge",
+"score": 63,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
 },
 {
 "id": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.69.0",
@@ -2982,8 +4698,21 @@
 "summary": "158 points · 댓글 45",
 "image": "",
 "added": "2026-11-23T15:30+09:00",
-"score": 158,
+"score": 159,
 "important": false
+},
+{
+"id": "https://github.com/naheel0/dev-skills",
+"cat": "스킬",
+"src": "새 에이전트 스킬",
+"title": "naheel0/dev-skills",
+"url": "https://github.com/naheel0/dev-skills",
+"date": "2026-11-19T01:38+09:00",
+"summary": "★56 · Agent skills for dev.to - write in your voice, audit what worked, feed the results into the next draft.",
+"image": "https://opengraph.githubassets.com/1/naheel0/dev-skills",
+"score": 56,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
 },
 {
 "id": "https://rshekhar.com/voyager/",
@@ -3047,8 +4776,21 @@
 "summary": "★147 · Streamlined workspace for organizing and running AI workflows in one place.",
 "image": "https://opengraph.githubassets.com/1/kenzz-devv/open-webui-talora-ai-workspace",
 "added": "2026-11-23T15:30+09:00",
-"score": 147,
+"score": 68,
 "important": false
+},
+{
+"id": "https://github.com/byttrade/bytx-skills",
+"cat": "MCP",
+"src": "새 MCP 저장소",
+"title": "byttrade/bytx-skills",
+"url": "https://github.com/byttrade/bytx-skills",
+"date": "2026-11-18T23:14+09:00",
+"summary": "★89 · Crypto trading skills for AI assistants on bytx: MCP server + CLI + Claude skills. Paper by default, never without your yes.",
+"image": "https://opengraph.githubassets.com/1/byttrade/bytx-skills",
+"score": 89,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
 },
 {
 "id": "https://typefighter2.com/",
@@ -3060,7 +4802,7 @@
 "summary": "150 points · 댓글 73",
 "image": "",
 "added": "2026-11-23T15:30+09:00",
-"score": 150,
+"score": 151,
 "important": false
 },
 {
@@ -3111,7 +4853,7 @@
 "date": "2026-11-18T18:29+09:00",
 "summary": "★46 · Claude Code plugin for building and redesigning sites in a monochrome, editorial, photography-led style: Geist type, a 5px rhythm, glass instead of shadows, buttery motion, a…",
 "image": "https://opengraph.githubassets.com/1/iamshakibali/editorial-taste",
-"score": 46,
+"score": 47,
 "important": false,
 "added": "2026-11-23T16:17+09:00"
 },
@@ -3153,6 +4895,19 @@
 "added": "2026-11-23T15:30+09:00",
 "score": 0,
 "important": true
+},
+{
+"id": "https://github.com/howznguyen/nookdeck",
+"cat": "MCP",
+"src": "새 MCP 저장소",
+"title": "howznguyen/nookdeck",
+"url": "https://github.com/howznguyen/nookdeck",
+"date": "2026-11-18T15:05+09:00",
+"summary": "★54 · Nookdeck (formerly PhoneDesk): turn an old phone into a Stream Deck-style control panel and dashboard for your Mac or Windows PC. No app, no account, no cloud.",
+"image": "https://opengraph.githubassets.com/1/howznguyen/nookdeck",
+"score": 54,
+"important": false,
+"added": "2026-11-24T15:35+09:00"
 },
 {
 "id": "https://openai.com/index/managing-frontier-ai-risk",
@@ -3203,7 +4958,7 @@
 "summary": "230 points · 댓글 137",
 "image": "",
 "added": "2026-11-23T15:30+09:00",
-"score": 231,
+"score": 235,
 "important": false
 },
 {
@@ -3216,7 +4971,7 @@
 "summary": "66 points · 댓글 22",
 "image": "",
 "added": "2026-11-23T15:30+09:00",
-"score": 66,
+"score": 68,
 "important": false
 },
 {
@@ -3228,7 +4983,7 @@
 "date": "2026-11-18T10:48+09:00",
 "summary": "★29 · 吸星大法.skill（Skill-Siphon）是一个面向 Agent Skill 的学习提炼工具：它把优秀 skill 里高手已经写下来的经验，提炼成人能学懂、能练习、能用到自己工作里的资料。实现效果：隔空吸纳、汇入经脉、炼化内力、凝成精华。它通用适配各种支持 Skill 的 Agent 工具，可帮你从高星/热门 skill 或指定 skill…",
 "image": "https://opengraph.githubassets.com/1/JL-GUO/skill-siphon",
-"score": 29,
+"score": 32,
 "important": false,
 "added": "2026-11-23T16:17+09:00"
 },
@@ -3476,7 +5231,7 @@
 "summary": "308 points · 댓글 70",
 "image": "",
 "added": "2026-11-23T15:30+09:00",
-"score": 308,
+"score": 310,
 "important": true
 },
 {
